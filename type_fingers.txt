@@ -1,0 +1,1000 @@
+Arch, none, output_spisintetic_teste/1/1/1_1_1
+Tented Arch,  C 104 146 D 104 195, output_spisintetic_teste/1/2/1_2_1
+Twin Loop,  C 120 110 C 118 160 D 10 100.5 D 180 182, output_spisintetic_teste/1/3/1_3_1
+Tented Arch,  C 93 139 D 93 183, output_spisintetic_teste/1/4/1_4_1
+Left LOOP,  C 79 165 D 158 218, output_spisintetic_teste/1/5/1_5_1
+Twin Loop,  C 101 120 C 102 154 D 10 100.5 D 180 187, output_spisintetic_teste/1/6/1_6_1
+Whorl,  C 109 108 C 110 139 C 6.95322e-310 -5.96677e+301 D 45 214 D 153 211 D 2.122e-314 2.41298e-314, output_spisintetic_teste/1/7/1_7_1
+Twin Loop,  C 94 119 C 120 164 D 10 100.5 D 180 207, output_spisintetic_teste/1/8/1_8_1
+Tented Arch,  C 89 124 D 89 193, output_spisintetic_teste/1/9/1_9_1
+Twin Loop,  C 111 122 C 100 177 D 10 100.5 D 180 191, output_spisintetic_teste/1/10/1_10_1
+Arch, none, output_spisintetic_teste/1/11/1_11_1
+Arch, none, output_spisintetic_teste/1/12/1_12_1
+Left LOOP,  C 100 169 D 151 213, output_spisintetic_teste/1/13/1_13_1
+Whorl,  C 101 116 C 105 133 C 6.95286e-310 -5.53176e+305 D 49 214 D 165 201 D 2.122e-314 3.40358e-314, output_spisintetic_teste/1/14/1_14_1
+Right LOOP,  C 105 169 D 67 218, output_spisintetic_teste/1/15/1_15_1
+Twin Loop,  C 118 115 C 96 156 D 10 100.5 D 180 186, output_spisintetic_teste/1/16/1_16_1
+Whorl,  C 102 101 C 110 158 C 6.95325e-310 -1.30739e+306 D 31 212 D 159 220 D 6.93954e-310 0, output_spisintetic_teste/1/17/1_17_1
+Left LOOP,  C 84 165 D 150 210, output_spisintetic_teste/1/18/1_18_1
+Whorl,  C 104 100 C 103 152 C 6.95288e-310 -8.25288e+307 D 32 218 D 170 209 D 2.122e-314 3.58745e-314, output_spisintetic_teste/1/19/1_19_1
+Twin Loop,  C 111 114 C 99 152 D 10 100.5 D 180 220, output_spisintetic_teste/1/20/1_20_1
+Left LOOP,  C 72 164 D 160 214, output_spisintetic_teste/1/21/1_21_1
+Right LOOP,  C 148 158 D 57 211, output_spisintetic_teste/1/22/1_22_1
+Tented Arch,  C 99 145 D 99 180, output_spisintetic_teste/1/23/1_23_1
+Right LOOP,  C 135 166 D 54 214, output_spisintetic_teste/1/24/1_24_1
+Arch, none, output_spisintetic_teste/1/25/1_25_1
+Twin Loop,  C 96 120 C 90 163 D 10 100.5 D 180 212, output_spisintetic_teste/1/26/1_26_1
+Arch, none, output_spisintetic_teste/1/27/1_27_1
+Twin Loop,  C 91 122 C 100 163 D 10 100.5 D 180 204, output_spisintetic_teste/1/28/1_28_1
+Twin Loop,  C 91 124 C 94 164 D 10 100.5 D 180 187, output_spisintetic_teste/1/29/1_29_1
+Left LOOP,  C 89 153 D 157 211, output_spisintetic_teste/1/30/1_30_1
+Tented Arch,  C 106 148 D 106 192, output_spisintetic_teste/1/31/1_31_1
+Right LOOP,  C 131 152 D 60 215, output_spisintetic_teste/1/32/1_32_1
+Whorl,  C 108 115 C 107 164 C 6.95335e-310 -5.37479e+302 D 44 214 D 155 211 D 6.92037e-310 0, output_spisintetic_teste/1/33/1_33_1
+Right LOOP,  C 146 159 D 65 220, output_spisintetic_teste/1/34/1_34_1
+Right LOOP,  C 124 157 D 54 218, output_spisintetic_teste/1/35/1_35_1
+Whorl,  C 105 115 C 101 156 C 6.95254e-310 -2.58432e+307 D 42 213 D 170 207 D 4.94066e-324 6.94682e-310, output_spisintetic_teste/1/36/1_36_1
+Right LOOP,  C 121 152 D 62 212, output_spisintetic_teste/1/37/1_37_1
+Tented Arch,  C 82 146 D 82 197, output_spisintetic_teste/1/38/1_38_1
+Whorl,  C 109 111 C 108 174 C 6.95289e-310 -nan D 32 212 D 180 204 D 4.94066e-324 6.95217e-310, output_spisintetic_teste/1/39/1_39_1
+Whorl,  C 102 103 C 102 146 C 6.95282e-310 -6.92418e+304 D 35 209 D 132 219 D 6.93227e-310 6.93227e-310, output_spisintetic_teste/1/40/1_40_1
+Right LOOP,  C 130 151 D 62 218, output_spisintetic_teste/1/41/1_41_1
+Right LOOP,  C 139 153 D 62 213, output_spisintetic_teste/1/42/1_42_1
+Arch, none, output_spisintetic_teste/1/43/1_43_1
+Tented Arch,  C 104 149 D 104 184, output_spisintetic_teste/1/44/1_44_1
+Twin Loop,  C 108 111 C 117 164 D 10 100.5 D 180 205, output_spisintetic_teste/1/45/1_45_1
+Left LOOP,  C 70 158 D 156 212, output_spisintetic_teste/1/46/1_46_1
+Whorl,  C 106 119 C 110 162 C 6.95261e-310 -5.67776e+304 D 46 217 D 133 217 D 6.93179e-310 0, output_spisintetic_teste/1/47/1_47_1
+Whorl,  C 103 113 C 107 132 C 6.95271e-310 -4.1513e+307 D 32 213 D 164 218 D 6.948e-310 0, output_spisintetic_teste/1/48/1_48_1
+Arch, none, output_spisintetic_teste/1/49/1_49_1
+Tented Arch,  C 118 141 D 118 195, output_spisintetic_teste/1/50/1_50_1
+Twin Loop,  C 91 120 C 105 160 D 10 100.5 D 180 205, output_spisintetic_teste/1/51/1_51_1
+Right LOOP,  C 114 153 D 67 210, output_spisintetic_teste/1/52/1_52_1
+Right LOOP,  C 148 158 D 70 214, output_spisintetic_teste/1/53/1_53_1
+Tented Arch,  C 119 144 D 119 190, output_spisintetic_teste/1/54/1_54_1
+Arch, none, output_spisintetic_teste/1/55/1_55_1
+Right LOOP,  C 118 158 D 58 212, output_spisintetic_teste/1/56/1_56_1
+Right LOOP,  C 109 169 D 53 213, output_spisintetic_teste/1/57/1_57_1
+Twin Loop,  C 95 125 C 91 169 D 10 100.5 D 180 201, output_spisintetic_teste/1/58/1_58_1
+Tented Arch,  C 113 125 D 113 186, output_spisintetic_teste/1/59/1_59_1
+Tented Arch,  C 105 142 D 105 194, output_spisintetic_teste/1/60/1_60_1
+Whorl,  C 101 114 C 101 140 C 6.95334e-310 -1.48422e+301 D 34 211 D 148 203 D 6.91157e-310 6.91157e-310, output_spisintetic_teste/1/61/1_61_1
+Whorl,  C 104 115 C 103 140 C 6.95319e-310 -4.08388e+303 D 34 202 D 142 203 D 4.94066e-324 6.92533e-310, output_spisintetic_teste/1/62/1_62_1
+Left LOOP,  C 79 157 D 153 217, output_spisintetic_teste/1/63/1_63_1
+Arch, none, output_spisintetic_teste/1/64/1_64_1
+Arch, none, output_spisintetic_teste/1/65/1_65_1
+Tented Arch,  C 103 143 D 103 186, output_spisintetic_teste/1/66/1_66_1
+Twin Loop,  C 92 122 C 92 164 D 10 100.5 D 180 215, output_spisintetic_teste/1/67/1_67_1
+Left LOOP,  C 91 159 D 160 216, output_spisintetic_teste/1/68/1_68_1
+Arch, none, output_spisintetic_teste/1/69/1_69_1
+Arch, none, output_spisintetic_teste/1/70/1_70_1
+Twin Loop,  C 113 123 C 110 162 D 10 100.5 D 180 201, output_spisintetic_teste/1/71/1_71_1
+Whorl,  C 101 108 C 109 173 C 6.95274e-310 -8.7766e+307 D 38 218 D 146 215 D 2.122e-314 3.44367e-314, output_spisintetic_teste/1/72/1_72_1
+Whorl,  C 100 105 C 100 165 C 6.95289e-310 -1.47418e+303 D 32 212 D 138 212 D 6.92292e-310 6.92293e-310, output_spisintetic_teste/1/73/1_73_1
+Whorl,  C 109 111 C 108 142 C 6.9527e-310 -4.8431e+300 D 42 213 D 138 212 D 6.90889e-310 0, output_spisintetic_teste/1/74/1_74_1
+Arch, none, output_spisintetic_teste/1/75/1_75_1
+Tented Arch,  C 100 121 D 100 190, output_spisintetic_teste/1/76/1_76_1
+Twin Loop,  C 104 113 C 96 158 D 10 100.5 D 180 193, output_spisintetic_teste/1/77/1_77_1
+Right LOOP,  C 101 150 D 70 210, output_spisintetic_teste/1/78/1_78_1
+Left LOOP,  C 78 168 D 151 217, output_spisintetic_teste/1/79/1_79_1
+Twin Loop,  C 103 110 C 114 159 D 10 100.5 D 180 198, output_spisintetic_teste/1/80/1_80_1
+Arch, none, output_spisintetic_teste/1/81/1_81_1
+Right LOOP,  C 138 159 D 57 215, output_spisintetic_teste/1/82/1_82_1
+Twin Loop,  C 108 119 C 99 160 D 10 100.5 D 180 217, output_spisintetic_teste/1/83/1_83_1
+Arch, none, output_spisintetic_teste/1/84/1_84_1
+Whorl,  C 107 106 C 108 133 C 6.95303e-310 -8.75628e+307 D 42 210 D 169 201 D 4.94066e-324 6.94987e-310, output_spisintetic_teste/1/85/1_85_1
+Tented Arch,  C 85 130 D 85 185, output_spisintetic_teste/1/86/1_86_1
+Twin Loop,  C 99 114 C 102 175 D 10 100.5 D 180 192, output_spisintetic_teste/1/87/1_87_1
+Arch, none, output_spisintetic_teste/1/88/1_88_1
+Right LOOP,  C 109 169 D 52 217, output_spisintetic_teste/1/89/1_89_1
+Tented Arch,  C 119 148 D 119 180, output_spisintetic_teste/1/90/1_90_1
+Right LOOP,  C 116 169 D 59 211, output_spisintetic_teste/1/91/1_91_1
+Right LOOP,  C 126 157 D 59 212, output_spisintetic_teste/1/92/1_92_1
+Arch, none, output_spisintetic_teste/1/93/1_93_1
+Arch, none, output_spisintetic_teste/1/94/1_94_1
+Whorl,  C 105 113 C 102 165 C 6.953e-310 -1.36007e+302 D 50 207 D 177 207 D 2.122e-314 3.59265e-314, output_spisintetic_teste/1/95/1_95_1
+Whorl,  C 100 115 C 109 175 C 6.95314e-310 -6.43108e+302 D 30 200 D 138 200 D 6.92089e-310 6.92089e-310, output_spisintetic_teste/1/96/1_96_1
+Right LOOP,  C 119 169 D 68 214, output_spisintetic_teste/1/97/1_97_1
+Twin Loop,  C 108 115 C 98 156 D 10 100.5 D 180 217, output_spisintetic_teste/1/98/1_98_1
+Right LOOP,  C 111 166 D 68 211, output_spisintetic_teste/1/99/1_99_1
+Twin Loop,  C 103 122 C 106 158 D 10 100.5 D 180 195, output_spisintetic_teste/1/100/1_100_1
+Right LOOP,  C 128 152 D 69 215, output_spisintetic_teste/1/101/1_101_1
+Left LOOP,  C 84 162 D 158 211, output_spisintetic_teste/1/102/1_102_1
+Right LOOP,  C 142 162 D 68 212, output_spisintetic_teste/1/103/1_103_1
+Whorl,  C 102 108 C 110 162 C 6.95298e-310 -2.34902e+305 D 36 200 D 169 213 D 4.94066e-324 6.93526e-310, output_spisintetic_teste/1/104/1_104_1
+Arch, none, output_spisintetic_teste/1/105/1_105_1
+Twin Loop,  C 117 111 C 91 157 D 10 100.5 D 180 219, output_spisintetic_teste/1/106/1_106_1
+Twin Loop,  C 93 114 C 107 168 D 10 100.5 D 180 180, output_spisintetic_teste/1/107/1_107_1
+Left LOOP,  C 97 161 D 156 212, output_spisintetic_teste/1/108/1_108_1
+Tented Arch,  C 120 122 D 120 197, output_spisintetic_teste/1/109/1_109_1
+Twin Loop,  C 103 121 C 118 172 D 10 100.5 D 180 206, output_spisintetic_teste/1/110/1_110_1
+Right LOOP,  C 141 163 D 58 216, output_spisintetic_teste/1/111/1_111_1
+Twin Loop,  C 94 113 C 110 162 D 10 100.5 D 180 188, output_spisintetic_teste/1/112/1_112_1
+Right LOOP,  C 141 162 D 57 215, output_spisintetic_teste/1/113/1_113_1
+Twin Loop,  C 96 123 C 115 156 D 10 100.5 D 180 185, output_spisintetic_teste/1/114/1_114_1
+Right LOOP,  C 145 169 D 59 212, output_spisintetic_teste/1/115/1_115_1
+Arch, none, output_spisintetic_teste/1/116/1_116_1
+Twin Loop,  C 104 114 C 104 162 D 10 100.5 D 180 193, output_spisintetic_teste/1/117/1_117_1
+Tented Arch,  C 94 139 D 94 189, output_spisintetic_teste/1/118/1_118_1
+Arch, none, output_spisintetic_teste/1/119/1_119_1
+Whorl,  C 110 120 C 100 145 C 6.95262e-310 -9.08954e+302 D 31 209 D 136 209 D 2.122e-314 3.40294e-314, output_spisintetic_teste/1/120/1_120_1
+Arch, none, output_spisintetic_teste/1/121/1_121_1
+Twin Loop,  C 111 111 C 119 168 D 10 100.5 D 180 194, output_spisintetic_teste/1/122/1_122_1
+Left LOOP,  C 94 156 D 159 214, output_spisintetic_teste/1/123/1_123_1
+Arch, none, output_spisintetic_teste/1/124/1_124_1
+Tented Arch,  C 90 147 D 90 191, output_spisintetic_teste/1/125/1_125_1
+Tented Arch,  C 98 127 D 98 187, output_spisintetic_teste/1/126/1_126_1
+Tented Arch,  C 105 134 D 105 196, output_spisintetic_teste/1/127/1_127_1
+Twin Loop,  C 100 116 C 118 173 D 10 100.5 D 180 187, output_spisintetic_teste/1/128/1_128_1
+Tented Arch,  C 81 125 D 81 189, output_spisintetic_teste/1/129/1_129_1
+Arch, none, output_spisintetic_teste/1/130/1_130_1
+Right LOOP,  C 112 168 D 58 216, output_spisintetic_teste/1/131/1_131_1
+Whorl,  C 104 109 C 102 135 C 6.95284e-310 -8.59502e+305 D 42 201 D 173 207 D 2.122e-314 3.8021e-314, output_spisintetic_teste/1/132/1_132_1
+Right LOOP,  C 133 155 D 68 217, output_spisintetic_teste/1/133/1_133_1
+Left LOOP,  C 73 159 D 160 219, output_spisintetic_teste/1/134/1_134_1
+Left LOOP,  C 92 161 D 159 217, output_spisintetic_teste/1/135/1_135_1
+Left LOOP,  C 93 156 D 157 211, output_spisintetic_teste/1/136/1_136_1
+Right LOOP,  C 118 150 D 53 216, output_spisintetic_teste/1/137/1_137_1
+Twin Loop,  C 109 115 C 97 159 D 10 100.5 D 180 195, output_spisintetic_teste/1/138/1_138_1
+Twin Loop,  C 120 110 C 118 160 D 10 100.5 D 180 210, output_spisintetic_teste/1/139/1_139_1
+Twin Loop,  C 119 115 C 120 150 D 10 100.5 D 180 213, output_spisintetic_teste/1/140/1_140_1
+Arch, none, output_spisintetic_teste/1/141/1_141_1
+Left LOOP,  C 89 162 D 157 212, output_spisintetic_teste/1/142/1_142_1
+Right LOOP,  C 123 156 D 68 220, output_spisintetic_teste/1/143/1_143_1
+Right LOOP,  C 113 156 D 52 214, output_spisintetic_teste/1/144/1_144_1
+Arch, none, output_spisintetic_teste/1/145/1_145_1
+Whorl,  C 100 112 C 106 179 C 6.95295e-310 -2.32784e+302 D 38 211 D 130 214 D 4.94066e-324 6.91831e-310, output_spisintetic_teste/1/146/1_146_1
+Whorl,  C 100 114 C 107 160 C 6.95325e-310 -1.01855e+303 D 44 216 D 164 200 D 2.122e-314 3.99408e-314, output_spisintetic_teste/1/147/1_147_1
+Left LOOP,  C 98 155 D 152 214, output_spisintetic_teste/1/148/1_148_1
+Twin Loop,  C 120 115 C 103 158 D 10 100.5 D 180 191, output_spisintetic_teste/1/149/1_149_1
+Whorl,  C 105 111 C 106 155 C 6.95318e-310 -3.23003e+307 D 48 219 D 162 215 D 2.122e-314 3.18142e-314, output_spisintetic_teste/1/150/1_150_1
+Twin Loop,  C 114 123 C 111 157 D 10 100.5 D 180 202, output_spisintetic_teste/1/151/1_151_1
+Left LOOP,  C 98 163 D 157 216, output_spisintetic_teste/1/152/1_152_1
+Whorl,  C 102 102 C 108 170 C 6.95334e-310 -8.89476e+305 D 44 206 D 165 218 D 6.93853e-310 0, output_spisintetic_teste/1/153/1_153_1
+Whorl,  C 103 111 C 110 160 C 6.95335e-310 -5.03618e+306 D 31 200 D 130 211 D 6.94282e-310 6.94282e-310, output_spisintetic_teste/1/154/1_154_1
+Right LOOP,  C 142 154 D 56 218, output_spisintetic_teste/1/155/1_155_1
+Tented Arch,  C 113 122 D 113 185, output_spisintetic_teste/1/156/1_156_1
+Twin Loop,  C 113 116 C 93 165 D 10 100.5 D 180 187, output_spisintetic_teste/1/157/1_157_1
+Left LOOP,  C 78 158 D 160 210, output_spisintetic_teste/1/158/1_158_1
+Right LOOP,  C 121 155 D 54 220, output_spisintetic_teste/1/159/1_159_1
+Tented Arch,  C 105 141 D 105 195, output_spisintetic_teste/1/160/1_160_1
+Twin Loop,  C 95 118 C 104 161 D 10 100.5 D 180 192, output_spisintetic_teste/1/161/1_161_1
+Tented Arch,  C 112 127 D 112 193, output_spisintetic_teste/1/162/1_162_1
+Twin Loop,  C 117 125 C 99 161 D 10 100.5 D 180 188, output_spisintetic_teste/1/163/1_163_1
+Arch, none, output_spisintetic_teste/1/164/1_164_1
+Twin Loop,  C 93 111 C 94 168 D 10 100.5 D 180 217, output_spisintetic_teste/1/165/1_165_1
+Arch, none, output_spisintetic_teste/1/166/1_166_1
+Left LOOP,  C 77 155 D 156 212, output_spisintetic_teste/1/167/1_167_1
+Tented Arch,  C 83 146 D 83 191, output_spisintetic_teste/1/168/1_168_1
+Left LOOP,  C 92 164 D 153 216, output_spisintetic_teste/1/169/1_169_1
+Whorl,  C 101 110 C 106 152 C 6.95292e-310 -1.86063e+303 D 50 200 D 162 207 D 6.9234e-310 6.9234e-310, output_spisintetic_teste/1/170/1_170_1
+Arch, none, output_spisintetic_teste/1/171/1_171_1
+Twin Loop,  C 118 124 C 95 173 D 10 100.5 D 180 202, output_spisintetic_teste/1/172/1_172_1
+Left LOOP,  C 100 158 D 152 218, output_spisintetic_teste/1/173/1_173_1
+Arch, none, output_spisintetic_teste/1/174/1_174_1
+Left LOOP,  C 87 162 D 160 213, output_spisintetic_teste/1/175/1_175_1
+Right LOOP,  C 140 154 D 65 215, output_spisintetic_teste/1/176/1_176_1
+Whorl,  C 100 103 C 100 165 C 6.95333e-310 -8.23883e+302 D 41 207 D 152 213 D 6.92144e-310 0, output_spisintetic_teste/1/177/1_177_1
+Right LOOP,  C 121 157 D 50 220, output_spisintetic_teste/1/178/1_178_1
+Twin Loop,  C 117 115 C 114 171 D 10 100.5 D 180 188, output_spisintetic_teste/1/179/1_179_1
+Twin Loop,  C 90 118 C 101 154 D 10 100.5 D 180 211, output_spisintetic_teste/1/180/1_180_1
+Tented Arch,  C 82 139 D 82 180, output_spisintetic_teste/1/181/1_181_1
+Right LOOP,  C 133 163 D 64 219, output_spisintetic_teste/1/182/1_182_1
+Whorl,  C 103 115 C 107 170 C 6.95296e-310 -7.2814e+300 D 43 213 D 160 216 D 6.90983e-310 6.90983e-310, output_spisintetic_teste/1/183/1_183_1
+Arch, none, output_spisintetic_teste/1/184/1_184_1
+Left LOOP,  C 86 161 D 150 216, output_spisintetic_teste/1/185/1_185_1
+Whorl,  C 108 117 C 105 152 C 6.95335e-310 -1.95003e+303 D 44 206 D 152 216 D 4.94066e-324 6.92352e-310, output_spisintetic_teste/1/186/1_186_1
+Whorl,  C 104 106 C 108 155 C 6.95252e-310 -2.56695e+299 D 40 211 D 174 206 D 6.90164e-310 0, output_spisintetic_teste/1/187/1_187_1
+Arch, none, output_spisintetic_teste/1/188/1_188_1
+Arch, none, output_spisintetic_teste/1/189/1_189_1
+Twin Loop,  C 97 114 C 93 174 D 10 100.5 D 180 187, output_spisintetic_teste/1/190/1_190_1
+Arch, none, output_spisintetic_teste/1/191/1_191_1
+Whorl,  C 107 110 C 102 147 C 6.95299e-310 -7.15851e+301 D 35 202 D 167 213 D 6.91545e-310 6.91545e-310, output_spisintetic_teste/1/192/1_192_1
+Arch, none, output_spisintetic_teste/1/193/1_193_1
+Arch, none, output_spisintetic_teste/1/194/1_194_1
+Left LOOP,  C 93 162 D 160 217, output_spisintetic_teste/1/195/1_195_1
+Tented Arch,  C 108 130 D 108 192, output_spisintetic_teste/1/196/1_196_1
+Twin Loop,  C 93 124 C 93 173 D 10 100.5 D 180 193, output_spisintetic_teste/1/197/1_197_1
+Twin Loop,  C 101 110 C 118 174 D 10 100.5 D 180 214, output_spisintetic_teste/1/198/1_198_1
+Whorl,  C 105 114 C 101 179 C 6.95285e-310 -1.68879e+306 D 43 208 D 161 218 D 4.94066e-324 6.94012e-310, output_spisintetic_teste/1/199/1_199_1
+Right LOOP,  C 115 158 D 63 212, output_spisintetic_teste/1/200/1_200_1
+Whorl,  C 106 106 C 107 176 C 6.95265e-310 -5.9292e+304 D 35 202 D 133 209 D 2.122e-314 3.83576e-314, output_spisintetic_teste/1/201/1_201_1
+Twin Loop,  C 107 124 C 97 177 D 10 100.5 D 180 197, output_spisintetic_teste/1/202/1_202_1
+Twin Loop,  C 113 122 C 120 172 D 10 100.5 D 180 180, output_spisintetic_teste/1/203/1_203_1
+Right LOOP,  C 133 165 D 61 218, output_spisintetic_teste/1/204/1_204_1
+Tented Arch,  C 102 126 D 102 199, output_spisintetic_teste/1/205/1_205_1
+Twin Loop,  C 102 121 C 92 173 D 10 100.5 D 180 185, output_spisintetic_teste/1/206/1_206_1
+Right LOOP,  C 130 166 D 68 217, output_spisintetic_teste/1/207/1_207_1
+Arch, none, output_spisintetic_teste/1/208/1_208_1
+Twin Loop,  C 102 114 C 99 158 D 10 100.5 D 180 201, output_spisintetic_teste/1/209/1_209_1
+Twin Loop,  C 117 122 C 98 179 D 10 100.5 D 180 202, output_spisintetic_teste/1/210/1_210_1
+Twin Loop,  C 99 118 C 116 161 D 10 100.5 D 180 199, output_spisintetic_teste/1/211/1_211_1
+Whorl,  C 107 104 C 102 150 C 6.95275e-310 -7.03582e+302 D 34 215 D 168 210 D 4.94066e-324 6.92115e-310, output_spisintetic_teste/1/212/1_212_1
+Right LOOP,  C 144 170 D 63 213, output_spisintetic_teste/1/213/1_213_1
+Twin Loop,  C 119 121 C 117 171 D 10 100.5 D 180 209, output_spisintetic_teste/1/214/1_214_1
+Tented Arch,  C 112 138 D 112 200, output_spisintetic_teste/1/215/1_215_1
+Right LOOP,  C 139 162 D 64 216, output_spisintetic_teste/1/216/1_216_1
+Right LOOP,  C 124 164 D 65 212, output_spisintetic_teste/1/217/1_217_1
+Whorl,  C 104 113 C 102 135 C 6.95279e-310 -1.70306e+305 D 35 201 D 138 218 D 2.122e-314 3.22866e-314, output_spisintetic_teste/1/218/1_218_1
+Arch, none, output_spisintetic_teste/1/219/1_219_1
+Left LOOP,  C 88 168 D 152 210, output_spisintetic_teste/1/220/1_220_1
+Whorl,  C 105 105 C 102 169 C 6.95334e-310 -9.15078e+301 D 39 213 D 178 218 D 2.122e-314 3.26803e-314, output_spisintetic_teste/1/221/1_221_1
+Left LOOP,  C 85 157 D 154 216, output_spisintetic_teste/1/222/1_222_1
+Tented Arch,  C 110 133 D 110 192, output_spisintetic_teste/1/223/1_223_1
+Whorl,  C 103 118 C 105 176 C 6.95314e-310 -1.0484e+303 D 39 211 D 130 213 D 6.922e-310 0, output_spisintetic_teste/1/224/1_224_1
+Whorl,  C 107 116 C 100 139 C 6.95313e-310 -6.01595e+299 D 47 212 D 152 218 D 6.90378e-310 0, output_spisintetic_teste/1/225/1_225_1
+Tented Arch,  C 111 129 D 111 197, output_spisintetic_teste/1/226/1_226_1
+Tented Arch,  C 104 141 D 104 181, output_spisintetic_teste/1/227/1_227_1
+Arch, none, output_spisintetic_teste/1/228/1_228_1
+Whorl,  C 108 116 C 104 157 C 6.95253e-310 -9.16062e+302 D 46 219 D 179 220 D 2.122e-314 3.5789e-314, output_spisintetic_teste/1/229/1_229_1
+Whorl,  C 100 114 C 103 131 C 6.95264e-310 -7.03209e+298 D 39 209 D 133 212 D 4.94066e-324 6.89849e-310, output_spisintetic_teste/1/230/1_230_1
+Arch, none, output_spisintetic_teste/1/231/1_231_1
+Left LOOP,  C 76 155 D 159 218, output_spisintetic_teste/1/232/1_232_1
+Right LOOP,  C 146 151 D 57 216, output_spisintetic_teste/1/233/1_233_1
+Arch, none, output_spisintetic_teste/1/234/1_234_1
+Left LOOP,  C 80 167 D 156 213, output_spisintetic_teste/1/235/1_235_1
+Whorl,  C 101 101 C 106 140 C 6.95326e-310 -5.16336e+303 D 47 213 D 149 215 D 4.94066e-324 6.92599e-310, output_spisintetic_teste/1/236/1_236_1
+Right LOOP,  C 104 164 D 61 217, output_spisintetic_teste/1/237/1_237_1
+Twin Loop,  C 110 110 C 115 159 D 10 100.5 D 180 208, output_spisintetic_teste/1/238/1_238_1
+Right LOOP,  C 137 150 D 64 215, output_spisintetic_teste/1/239/1_239_1
+Twin Loop,  C 114 119 C 111 172 D 10 100.5 D 180 183, output_spisintetic_teste/1/240/1_240_1
+Twin Loop,  C 100 111 C 95 168 D 10 100.5 D 180 215, output_spisintetic_teste/1/241/1_241_1
+Twin Loop,  C 107 118 C 111 161 D 10 100.5 D 180 182, output_spisintetic_teste/1/242/1_242_1
+Twin Loop,  C 113 111 C 108 159 D 10 100.5 D 180 180, output_spisintetic_teste/1/243/1_243_1
+Whorl,  C 107 110 C 107 161 C 6.95303e-310 -3.68633e+303 D 50 206 D 175 214 D 6.92508e-310 0, output_spisintetic_teste/1/244/1_244_1
+Right LOOP,  C 141 168 D 68 210, output_spisintetic_teste/1/245/1_245_1
+Tented Arch,  C 112 130 D 112 183, output_spisintetic_teste/1/246/1_246_1
+Left LOOP,  C 96 168 D 154 215, output_spisintetic_teste/1/247/1_247_1
+Tented Arch,  C 118 137 D 118 188, output_spisintetic_teste/1/248/1_248_1
+Whorl,  C 109 103 C 102 144 C 6.95309e-310 -5.35459e+304 D 40 219 D 160 204 D 6.93166e-310 6.93166e-310, output_spisintetic_teste/1/249/1_249_1
+Whorl,  C 109 101 C 107 156 C 6.95273e-310 -7.20653e+298 D 44 200 D 177 218 D 6.89856e-310 6.89856e-310, output_spisintetic_teste/1/250/1_250_1
+Whorl,  C 106 113 C 107 180 C 6.95318e-310 -9.84762e+300 D 31 200 D 162 204 D 4.94066e-324 6.91064e-310, output_spisintetic_teste/1/251/1_251_1
+Arch, none, output_spisintetic_teste/1/252/1_252_1
+Whorl,  C 109 100 C 107 130 C 6.95267e-310 -8.47976e+307 D 34 220 D 174 219 D 6.94977e-310 6.94977e-310, output_spisintetic_teste/1/253/1_253_1
+Whorl,  C 109 111 C 106 172 C 6.95329e-310 -6.46395e+302 D 36 207 D 171 218 D 4.94066e-324 6.92091e-310, output_spisintetic_teste/1/254/1_254_1
+Left LOOP,  C 77 150 D 150 212, output_spisintetic_teste/1/255/1_255_1
+Twin Loop,  C 91 110 C 104 169 D 10 100.5 D 180 211, output_spisintetic_teste/1/256/1_256_1
+Twin Loop,  C 109 125 C 96 175 D 10 100.5 D 180 182, output_spisintetic_teste/1/257/1_257_1
+Twin Loop,  C 114 120 C 103 166 D 10 100.5 D 180 210, output_spisintetic_teste/1/258/1_258_1
+Left LOOP,  C 96 168 D 155 217, output_spisintetic_teste/1/259/1_259_1
+Whorl,  C 107 104 C 109 136 C 6.95251e-310 -1.11527e+302 D 45 203 D 135 201 D 2.122e-314 2.98863e-314, output_spisintetic_teste/1/260/1_260_1
+Whorl,  C 104 100 C 109 145 C 6.95292e-310 -3.86756e+300 D 33 200 D 177 208 D 4.94066e-324 6.90827e-310, output_spisintetic_teste/1/261/1_261_1
+Tented Arch,  C 80 122 D 80 193, output_spisintetic_teste/1/262/1_262_1
+Arch, none, output_spisintetic_teste/1/263/1_263_1
+Twin Loop,  C 101 122 C 106 178 D 10 100.5 D 180 187, output_spisintetic_teste/1/264/1_264_1
+Tented Arch,  C 88 126 D 88 183, output_spisintetic_teste/1/265/1_265_1
+Whorl,  C 100 120 C 103 136 C 6.95281e-310 -2.36866e+307 D 38 207 D 161 212 D 2.122e-314 3.04018e-314, output_spisintetic_teste/1/266/1_266_1
+Arch, none, output_spisintetic_teste/1/267/1_267_1
+Left LOOP,  C 73 168 D 159 217, output_spisintetic_teste/1/268/1_268_1
+Whorl,  C 108 100 C 109 171 C 6.95264e-310 -nan D 39 214 D 132 207 D 2.122e-314 3.34952e-314, output_spisintetic_teste/1/269/1_269_1
+Arch, none, output_spisintetic_teste/1/270/1_270_1
+Right LOOP,  C 143 166 D 51 215, output_spisintetic_teste/1/271/1_271_1
+Whorl,  C 104 117 C 101 180 C 6.95252e-310 -2.10919e+301 D 37 208 D 180 211 D 2.122e-314 3.70799e-314, output_spisintetic_teste/1/272/1_272_1
+Arch, none, output_spisintetic_teste/1/273/1_273_1
+Twin Loop,  C 115 124 C 101 155 D 10 100.5 D 180 197, output_spisintetic_teste/1/274/1_274_1
+Arch, none, output_spisintetic_teste/1/275/1_275_1
+Arch, none, output_spisintetic_teste/1/276/1_276_1
+Left LOOP,  C 80 151 D 151 216, output_spisintetic_teste/1/277/1_277_1
+Whorl,  C 106 109 C 103 133 C 6.95277e-310 -2.92595e+302 D 39 212 D 143 220 D 2.122e-314 3.50855e-314, output_spisintetic_teste/1/278/1_278_1
+Twin Loop,  C 105 122 C 101 165 D 10 100.5 D 180 213, output_spisintetic_teste/1/279/1_279_1
+Whorl,  C 105 114 C 102 161 C 6.95326e-310 -2.08008e+302 D 32 203 D 138 209 D 6.91807e-310 6.91807e-310, output_spisintetic_teste/1/280/1_280_1
+Arch, none, output_spisintetic_teste/1/281/1_281_1
+Left LOOP,  C 96 170 D 150 213, output_spisintetic_teste/1/282/1_282_1
+Whorl,  C 104 117 C 107 147 C 6.95316e-310 -4.57682e+300 D 37 206 D 133 206 D 4.94066e-324 6.90872e-310, output_spisintetic_teste/1/283/1_283_1
+Arch, none, output_spisintetic_teste/1/284/1_284_1
+Arch, none, output_spisintetic_teste/1/285/1_285_1
+Tented Arch,  C 90 129 D 90 184, output_spisintetic_teste/1/286/1_286_1
+Left LOOP,  C 99 152 D 153 211, output_spisintetic_teste/1/287/1_287_1
+Arch, none, output_spisintetic_teste/1/288/1_288_1
+Tented Arch,  C 100 143 D 100 181, output_spisintetic_teste/1/289/1_289_1
+Tented Arch,  C 80 129 D 80 192, output_spisintetic_teste/1/290/1_290_1
+Right LOOP,  C 115 162 D 62 213, output_spisintetic_teste/1/291/1_291_1
+Tented Arch,  C 96 139 D 96 190, output_spisintetic_teste/1/292/1_292_1
+Twin Loop,  C 106 119 C 109 153 D 10 100.5 D 180 220, output_spisintetic_teste/1/293/1_293_1
+Arch, none, output_spisintetic_teste/1/294/1_294_1
+Twin Loop,  C 104 114 C 119 157 D 10 100.5 D 180 217, output_spisintetic_teste/1/295/1_295_1
+Whorl,  C 108 105 C 104 142 C 6.95293e-310 -1.39216e+307 D 35 210 D 170 208 D 2.122e-314 4.05825e-314, output_spisintetic_teste/1/296/1_296_1
+Whorl,  C 103 106 C 105 149 C 6.95258e-310 -5.3901e+301 D 32 217 D 134 217 D 6.91475e-310 6.91475e-310, output_spisintetic_teste/1/297/1_297_1
+Tented Arch,  C 114 145 D 114 184, output_spisintetic_teste/1/298/1_298_1
+Left LOOP,  C 76 168 D 158 217, output_spisintetic_teste/1/299/1_299_1
+Tented Arch,  C 102 138 D 102 192, output_spisintetic_teste/1/300/1_300_1
+Whorl,  C 102 118 C 100 148 C 6.95317e-310 -3.35444e+306 D 49 210 D 144 217 D 2.122e-314 3.29704e-314, output_spisintetic_teste/1/301/1_301_1
+Tented Arch,  C 102 147 D 102 181, output_spisintetic_teste/1/302/1_302_1
+Whorl,  C 105 109 C 108 133 C 6.95298e-310 -1.63199e+301 D 42 217 D 131 212 D 6.9118e-310 0, output_spisintetic_teste/1/303/1_303_1
+Right LOOP,  C 124 162 D 59 215, output_spisintetic_teste/1/304/1_304_1
+Whorl,  C 110 112 C 104 163 C 6.95325e-310 -5.39927e+299 D 39 212 D 141 214 D 4.94066e-324 6.90347e-310, output_spisintetic_teste/1/305/1_305_1
+Right LOOP,  C 144 156 D 56 210, output_spisintetic_teste/1/306/1_306_1
+Whorl,  C 108 100 C 108 168 C 6.95274e-310 -1.53539e+299 D 42 200 D 176 202 D 4.94066e-324 6.90045e-310, output_spisintetic_teste/1/307/1_307_1
+Arch, none, output_spisintetic_teste/1/308/1_308_1
+Tented Arch,  C 99 141 D 99 180, output_spisintetic_teste/1/309/1_309_1
+Tented Arch,  C 81 130 D 81 199, output_spisintetic_teste/1/310/1_310_1
+Right LOOP,  C 148 164 D 63 217, output_spisintetic_teste/1/311/1_311_1
+Left LOOP,  C 99 168 D 159 214, output_spisintetic_teste/1/312/1_312_1
+Right LOOP,  C 115 153 D 70 213, output_spisintetic_teste/1/313/1_313_1
+Tented Arch,  C 116 126 D 116 189, output_spisintetic_teste/1/314/1_314_1
+Tented Arch,  C 96 140 D 96 198, output_spisintetic_teste/1/315/1_315_1
+Arch, none, output_spisintetic_teste/1/316/1_316_1
+Arch, none, output_spisintetic_teste/1/317/1_317_1
+Tented Arch,  C 108 124 D 108 194, output_spisintetic_teste/1/318/1_318_1
+Whorl,  C 103 111 C 103 145 C 6.95298e-310 -4.6588e+304 D 50 216 D 180 215 D 6.93139e-310 6.93139e-310, output_spisintetic_teste/1/319/1_319_1
+Whorl,  C 110 107 C 108 173 C 6.9528e-310 -5.49004e+303 D 38 200 D 163 212 D 2.122e-314 2.13408e-314, output_spisintetic_teste/1/320/1_320_1
+Tented Arch,  C 96 124 D 96 181, output_spisintetic_teste/1/321/1_321_1
+Arch, none, output_spisintetic_teste/1/322/1_322_1
+Tented Arch,  C 92 146 D 92 182, output_spisintetic_teste/1/323/1_323_1
+Twin Loop,  C 111 112 C 115 152 D 10 100.5 D 180 192, output_spisintetic_teste/1/324/1_324_1
+Right LOOP,  C 122 164 D 69 213, output_spisintetic_teste/1/325/1_325_1
+Whorl,  C 108 103 C 109 161 C 6.95323e-310 -2.98599e+301 D 35 201 D 177 205 D 4.94066e-324 6.91328e-310, output_spisintetic_teste/1/326/1_326_1
+Right LOOP,  C 138 165 D 56 219, output_spisintetic_teste/1/327/1_327_1
+Left LOOP,  C 81 170 D 159 210, output_spisintetic_teste/1/328/1_328_1
+Left LOOP,  C 77 164 D 159 215, output_spisintetic_teste/1/329/1_329_1
+Left LOOP,  C 86 167 D 155 210, output_spisintetic_teste/1/330/1_330_1
+Tented Arch,  C 117 123 D 117 191, output_spisintetic_teste/1/331/1_331_1
+Left LOOP,  C 81 162 D 157 211, output_spisintetic_teste/1/332/1_332_1
+Twin Loop,  C 109 123 C 94 170 D 10 100.5 D 180 182, output_spisintetic_teste/1/333/1_333_1
+Arch, none, output_spisintetic_teste/1/334/1_334_1
+Arch, none, output_spisintetic_teste/1/335/1_335_1
+Right LOOP,  C 128 156 D 52 212, output_spisintetic_teste/1/336/1_336_1
+Right LOOP,  C 140 169 D 70 220, output_spisintetic_teste/1/337/1_337_1
+Arch, none, output_spisintetic_teste/1/338/1_338_1
+Twin Loop,  C 101 115 C 105 177 D 10 100.5 D 180 204, output_spisintetic_teste/1/339/1_339_1
+Tented Arch,  C 102 136 D 102 191, output_spisintetic_teste/1/340/1_340_1
+Tented Arch,  C 120 130 D 120 180, output_spisintetic_teste/1/341/1_341_1
+Tented Arch,  C 114 139 D 114 190, output_spisintetic_teste/1/342/1_342_1
+Left LOOP,  C 75 160 D 159 219, output_spisintetic_teste/1/343/1_343_1
+Twin Loop,  C 118 120 C 116 172 D 10 100.5 D 180 216, output_spisintetic_teste/1/344/1_344_1
+Twin Loop,  C 101 125 C 97 174 D 10 100.5 D 180 207, output_spisintetic_teste/1/345/1_345_1
+Whorl,  C 110 119 C 102 147 C 6.95304e-310 -2.05935e+301 D 38 219 D 131 203 D 6.91248e-310 6.91248e-310, output_spisintetic_teste/1/346/1_346_1
+Arch, none, output_spisintetic_teste/1/347/1_347_1
+Left LOOP,  C 75 154 D 150 211, output_spisintetic_teste/1/348/1_348_1
+Tented Arch,  C 119 121 D 119 186, output_spisintetic_teste/1/349/1_349_1
+Left LOOP,  C 74 165 D 157 210, output_spisintetic_teste/1/350/1_350_1
+Left LOOP,  C 100 157 D 156 211, output_spisintetic_teste/1/351/1_351_1
+Arch, none, output_spisintetic_teste/1/352/1_352_1
+Arch, none, output_spisintetic_teste/1/353/1_353_1
+Tented Arch,  C 114 140 D 114 191, output_spisintetic_teste/1/354/1_354_1
+Left LOOP,  C 84 156 D 156 216, output_spisintetic_teste/1/355/1_355_1
+Left LOOP,  C 89 150 D 158 217, output_spisintetic_teste/1/356/1_356_1
+Left LOOP,  C 77 169 D 155 214, output_spisintetic_teste/1/357/1_357_1
+Twin Loop,  C 107 124 C 100 150 D 10 100.5 D 180 216, output_spisintetic_teste/1/358/1_358_1
+Tented Arch,  C 111 136 D 111 180, output_spisintetic_teste/1/359/1_359_1
+Left LOOP,  C 95 160 D 158 213, output_spisintetic_teste/1/360/1_360_1
+Whorl,  C 106 108 C 106 130 C 6.95287e-310 -7.47151e+305 D 46 210 D 134 217 D 2.122e-314 3.20806e-314, output_spisintetic_teste/1/361/1_361_1
+Left LOOP,  C 84 160 D 156 218, output_spisintetic_teste/1/362/1_362_1
+Whorl,  C 105 104 C 105 149 C 6.95301e-310 -1.51254e+308 D 49 214 D 148 210 D 6.95112e-310 6.95112e-310, output_spisintetic_teste/1/363/1_363_1
+Arch, none, output_spisintetic_teste/1/364/1_364_1
+Arch, none, output_spisintetic_teste/1/365/1_365_1
+Arch, none, output_spisintetic_teste/1/366/1_366_1
+Arch, none, output_spisintetic_teste/1/367/1_367_1
+Left LOOP,  C 92 164 D 153 218, output_spisintetic_teste/1/368/1_368_1
+Tented Arch,  C 87 123 D 87 191, output_spisintetic_teste/1/369/1_369_1
+Right LOOP,  C 142 159 D 53 215, output_spisintetic_teste/1/370/1_370_1
+Whorl,  C 104 106 C 105 148 C 6.95301e-310 -1.01636e+303 D 39 214 D 142 220 D 4.94066e-324 6.92192e-310, output_spisintetic_teste/1/371/1_371_1
+Whorl,  C 106 110 C 101 133 C 6.95329e-310 -3.02156e+299 D 34 218 D 130 215 D 2.122e-314 3.0513e-314, output_spisintetic_teste/1/372/1_372_1
+Tented Arch,  C 109 125 D 109 182, output_spisintetic_teste/1/373/1_373_1
+Arch, none, output_spisintetic_teste/1/374/1_374_1
+Twin Loop,  C 98 116 C 107 152 D 10 100.5 D 180 219, output_spisintetic_teste/1/375/1_375_1
+Left LOOP,  C 70 151 D 155 219, output_spisintetic_teste/1/376/1_376_1
+Left LOOP,  C 80 170 D 151 215, output_spisintetic_teste/1/377/1_377_1
+Tented Arch,  C 113 149 D 113 186, output_spisintetic_teste/1/378/1_378_1
+Left LOOP,  C 96 166 D 159 214, output_spisintetic_teste/1/379/1_379_1
+Arch, none, output_spisintetic_teste/1/380/1_380_1
+Tented Arch,  C 119 126 D 119 195, output_spisintetic_teste/1/381/1_381_1
+Right LOOP,  C 137 167 D 70 216, output_spisintetic_teste/1/382/1_382_1
+Tented Arch,  C 106 146 D 106 187, output_spisintetic_teste/1/383/1_383_1
+Left LOOP,  C 98 151 D 152 214, output_spisintetic_teste/1/384/1_384_1
+Right LOOP,  C 112 166 D 54 217, output_spisintetic_teste/1/385/1_385_1
+Twin Loop,  C 108 118 C 96 155 D 10 100.5 D 180 216, output_spisintetic_teste/1/386/1_386_1
+Whorl,  C 109 100 C 106 132 C 6.95322e-310 -5.89656e+305 D 40 201 D 164 201 D 6.93753e-310 0, output_spisintetic_teste/1/387/1_387_1
+Tented Arch,  C 83 145 D 83 188, output_spisintetic_teste/1/388/1_388_1
+Right LOOP,  C 133 167 D 52 214, output_spisintetic_teste/1/389/1_389_1
+Tented Arch,  C 101 129 D 101 189, output_spisintetic_teste/1/390/1_390_1
+Tented Arch,  C 102 138 D 102 187, output_spisintetic_teste/1/391/1_391_1
+Left LOOP,  C 73 167 D 150 219, output_spisintetic_teste/1/392/1_392_1
+Twin Loop,  C 105 117 C 103 163 D 10 100.5 D 180 213, output_spisintetic_teste/1/393/1_393_1
+Right LOOP,  C 106 159 D 55 217, output_spisintetic_teste/1/394/1_394_1
+Twin Loop,  C 116 110 C 112 150 D 10 100.5 D 180 207, output_spisintetic_teste/1/395/1_395_1
+Tented Arch,  C 85 120 D 85 193, output_spisintetic_teste/1/396/1_396_1
+Right LOOP,  C 120 163 D 55 216, output_spisintetic_teste/1/397/1_397_1
+Left LOOP,  C 88 164 D 156 213, output_spisintetic_teste/1/398/1_398_1
+Whorl,  C 104 118 C 106 179 C 6.95269e-310 -6.31391e+307 D 43 204 D 133 214 D 4.94066e-324 6.94895e-310, output_spisintetic_teste/1/399/1_399_1
+Right LOOP,  C 130 153 D 67 212, output_spisintetic_teste/1/400/1_400_1
+Tented Arch,  C 115 135 D 115 187, output_spisintetic_teste/1/401/1_401_1
+Tented Arch,  C 92 121 D 92 189, output_spisintetic_teste/1/402/1_402_1
+Arch, none, output_spisintetic_teste/1/403/1_403_1
+Right LOOP,  C 114 166 D 61 217, output_spisintetic_teste/1/404/1_404_1
+Whorl,  C 109 102 C 104 131 C 6.95307e-310 -8.20382e+303 D 32 210 D 168 207 D 6.92704e-310 0, output_spisintetic_teste/1/405/1_405_1
+Whorl,  C 103 102 C 101 151 C 6.95258e-310 -9.90725e+307 D 47 203 D 154 212 D 6.95013e-310 0, output_spisintetic_teste/1/406/1_406_1
+Tented Arch,  C 118 149 D 118 198, output_spisintetic_teste/1/407/1_407_1
+Right LOOP,  C 136 168 D 69 219, output_spisintetic_teste/1/408/1_408_1
+Right LOOP,  C 141 168 D 57 211, output_spisintetic_teste/1/409/1_409_1
+Whorl,  C 104 104 C 107 164 C 6.95325e-310 -1.01595e+306 D 40 205 D 169 217 D 6.93883e-310 6.93884e-310, output_spisintetic_teste/1/410/1_410_1
+Twin Loop,  C 106 112 C 91 155 D 10 100.5 D 180 191, output_spisintetic_teste/1/411/1_411_1
+Twin Loop,  C 97 122 C 93 173 D 10 100.5 D 180 194, output_spisintetic_teste/1/412/1_412_1
+Twin Loop,  C 107 120 C 109 176 D 10 100.5 D 180 218, output_spisintetic_teste/1/413/1_413_1
+Arch, none, output_spisintetic_teste/1/414/1_414_1
+Arch, none, output_spisintetic_teste/1/415/1_415_1
+Arch, none, output_spisintetic_teste/1/416/1_416_1
+Arch, none, output_spisintetic_teste/1/417/1_417_1
+Right LOOP,  C 104 165 D 67 211, output_spisintetic_teste/1/418/1_418_1
+Twin Loop,  C 119 123 C 108 172 D 10 100.5 D 180 199, output_spisintetic_teste/1/419/1_419_1
+Arch, none, output_spisintetic_teste/1/420/1_420_1
+Whorl,  C 103 112 C 103 150 C 6.95258e-310 -5.13086e+302 D 41 215 D 147 203 D 4.94066e-324 6.92025e-310, output_spisintetic_teste/1/421/1_421_1
+Arch, none, output_spisintetic_teste/1/422/1_422_1
+Left LOOP,  C 73 151 D 159 217, output_spisintetic_teste/1/423/1_423_1
+Twin Loop,  C 115 120 C 102 151 D 10 100.5 D 180 195, output_spisintetic_teste/1/424/1_424_1
+Tented Arch,  C 99 149 D 99 189, output_spisintetic_teste/1/425/1_425_1
+Tented Arch,  C 101 124 D 101 189, output_spisintetic_teste/1/426/1_426_1
+Right LOOP,  C 108 169 D 59 217, output_spisintetic_teste/1/427/1_427_1
+Tented Arch,  C 103 123 D 103 188, output_spisintetic_teste/1/428/1_428_1
+Right LOOP,  C 136 153 D 66 210, output_spisintetic_teste/1/429/1_429_1
+Right LOOP,  C 145 151 D 70 213, output_spisintetic_teste/1/430/1_430_1
+Twin Loop,  C 99 116 C 95 178 D 10 100.5 D 180 183, output_spisintetic_teste/1/431/1_431_1
+Whorl,  C 102 119 C 108 145 C 6.95264e-310 -2.56569e+302 D 33 208 D 158 211 D 6.91855e-310 0, output_spisintetic_teste/1/432/1_432_1
+Left LOOP,  C 84 153 D 150 213, output_spisintetic_teste/1/433/1_433_1
+Twin Loop,  C 97 115 C 107 158 D 10 100.5 D 180 194, output_spisintetic_teste/1/434/1_434_1
+Arch, none, output_spisintetic_teste/1/435/1_435_1
+Whorl,  C 107 109 C 102 147 C 6.95322e-310 -1.56496e+302 D 50 217 D 146 213 D 6.91741e-310 0, output_spisintetic_teste/1/436/1_436_1
+Tented Arch,  C 108 139 D 108 192, output_spisintetic_teste/1/437/1_437_1
+Right LOOP,  C 140 167 D 52 219, output_spisintetic_teste/1/438/1_438_1
+Tented Arch,  C 105 126 D 105 195, output_spisintetic_teste/1/439/1_439_1
+Arch, none, output_spisintetic_teste/1/440/1_440_1
+Left LOOP,  C 98 155 D 157 217, output_spisintetic_teste/1/441/1_441_1
+Left LOOP,  C 93 163 D 155 219, output_spisintetic_teste/1/442/1_442_1
+Tented Arch,  C 109 142 D 109 180, output_spisintetic_teste/1/443/1_443_1
+Tented Arch,  C 120 121 D 120 191, output_spisintetic_teste/1/444/1_444_1
+Twin Loop,  C 106 115 C 117 154 D 10 100.5 D 180 192, output_spisintetic_teste/1/445/1_445_1
+Twin Loop,  C 100 123 C 94 151 D 10 100.5 D 180 207, output_spisintetic_teste/1/446/1_446_1
+Right LOOP,  C 100 167 D 64 217, output_spisintetic_teste/1/447/1_447_1
+Twin Loop,  C 118 112 C 105 179 D 10 100.5 D 180 215, output_spisintetic_teste/1/448/1_448_1
+Whorl,  C 100 113 C 101 150 C 6.95328e-310 -3.90422e+306 D 49 214 D 134 216 D 4.94066e-324 6.94213e-310, output_spisintetic_teste/1/449/1_449_1
+Twin Loop,  C 110 116 C 116 152 D 10 100.5 D 180 209, output_spisintetic_teste/1/450/1_450_1
+Arch, none, output_spisintetic_teste/1/451/1_451_1
+Right LOOP,  C 116 163 D 57 217, output_spisintetic_teste/1/452/1_452_1
+Whorl,  C 101 103 C 107 142 C 6.95335e-310 -1.46219e+299 D 36 219 D 140 215 D 6.9003e-310 0, output_spisintetic_teste/1/453/1_453_1
+Left LOOP,  C 70 154 D 160 217, output_spisintetic_teste/1/454/1_454_1
+Arch, none, output_spisintetic_teste/1/455/1_455_1
+Left LOOP,  C 80 160 D 154 214, output_spisintetic_teste/1/456/1_456_1
+Whorl,  C 101 120 C 106 153 C 6.95319e-310 -3.00642e+307 D 45 213 D 179 218 D 4.94066e-324 6.94714e-310, output_spisintetic_teste/1/457/1_457_1
+Left LOOP,  C 77 155 D 158 219, output_spisintetic_teste/1/458/1_458_1
+Whorl,  C 103 114 C 105 149 C 6.95306e-310 -5.83712e+300 D 49 214 D 136 219 D 4.94066e-324 6.90937e-310, output_spisintetic_teste/1/459/1_459_1
+Tented Arch,  C 84 126 D 84 193, output_spisintetic_teste/1/460/1_460_1
+Twin Loop,  C 94 115 C 119 175 D 10 100.5 D 180 187, output_spisintetic_teste/1/461/1_461_1
+Twin Loop,  C 93 111 C 107 160 D 10 100.5 D 180 206, output_spisintetic_teste/1/462/1_462_1
+Tented Arch,  C 117 127 D 117 183, output_spisintetic_teste/1/463/1_463_1
+Whorl,  C 103 118 C 100 166 C 6.95281e-310 -1.50561e+302 D 36 207 D 177 211 D 4.94066e-324 6.91729e-310, output_spisintetic_teste/1/464/1_464_1
+Arch, none, output_spisintetic_teste/1/465/1_465_1
+Left LOOP,  C 76 158 D 158 210, output_spisintetic_teste/1/466/1_466_1
+Whorl,  C 101 115 C 109 136 C 6.95292e-310 -8.67843e+306 D 30 216 D 179 217 D 2.122e-314 2.88268e-314, output_spisintetic_teste/1/467/1_467_1
+Left LOOP,  C 70 164 D 158 217, output_spisintetic_teste/1/468/1_468_1
+Left LOOP,  C 79 157 D 160 215, output_spisintetic_teste/1/469/1_469_1
+Arch, none, output_spisintetic_teste/1/470/1_470_1
+Whorl,  C 104 113 C 103 159 C 6.95315e-310 -1.05527e+308 D 40 208 D 150 215 D 6.95025e-310 6.95026e-310, output_spisintetic_teste/1/471/1_471_1
+Tented Arch,  C 92 149 D 92 195, output_spisintetic_teste/1/472/1_472_1
+Whorl,  C 108 115 C 102 171 C 6.95281e-310 -7.43175e+307 D 30 210 D 163 204 D 6.94937e-310 0, output_spisintetic_teste/1/473/1_473_1
+Arch, none, output_spisintetic_teste/1/474/1_474_1
+Tented Arch,  C 98 150 D 98 194, output_spisintetic_teste/1/475/1_475_1
+Whorl,  C 105 110 C 106 148 C 6.95262e-310 -6.86381e+305 D 49 204 D 166 211 D 4.94066e-324 6.938e-310, output_spisintetic_teste/1/476/1_476_1
+Twin Loop,  C 101 113 C 99 154 D 10 100.5 D 180 215, output_spisintetic_teste/1/477/1_477_1
+Left LOOP,  C 81 154 D 153 218, output_spisintetic_teste/1/478/1_478_1
+Right LOOP,  C 118 163 D 65 215, output_spisintetic_teste/1/479/1_479_1
+Arch, none, output_spisintetic_teste/1/480/1_480_1
+Tented Arch,  C 98 136 D 98 199, output_spisintetic_teste/1/481/1_481_1
+Whorl,  C 105 108 C 109 179 C 6.95334e-310 -1.97709e+301 D 35 209 D 172 210 D 2.122e-314 3.73715e-314, output_spisintetic_teste/1/482/1_482_1
+Whorl,  C 106 119 C 104 157 C 6.95293e-310 -1.83078e+300 D 34 202 D 130 220 D 6.90644e-310 6.90645e-310, output_spisintetic_teste/1/483/1_483_1
+Twin Loop,  C 112 122 C 90 166 D 10 100.5 D 180 207, output_spisintetic_teste/1/484/1_484_1
+Tented Arch,  C 100 136 D 100 187, output_spisintetic_teste/1/485/1_485_1
+Left LOOP,  C 86 155 D 159 220, output_spisintetic_teste/1/486/1_486_1
+Tented Arch,  C 80 136 D 80 180, output_spisintetic_teste/1/487/1_487_1
+Right LOOP,  C 128 155 D 69 219, output_spisintetic_teste/1/488/1_488_1
+Twin Loop,  C 112 125 C 99 156 D 10 100.5 D 180 192, output_spisintetic_teste/1/489/1_489_1
+Whorl,  C 103 118 C 104 134 C 6.95311e-310 -1.11388e+299 D 35 220 D 154 206 D 2.122e-314 3.49046e-314, output_spisintetic_teste/1/490/1_490_1
+Right LOOP,  C 106 162 D 53 213, output_spisintetic_teste/1/491/1_491_1
+Left LOOP,  C 84 163 D 150 217, output_spisintetic_teste/1/492/1_492_1
+Whorl,  C 104 111 C 106 144 C 6.95321e-310 -3.71374e+304 D 48 219 D 132 201 D 2.122e-314 3.26501e-314, output_spisintetic_teste/1/493/1_493_1
+Left LOOP,  C 90 159 D 151 214, output_spisintetic_teste/1/494/1_494_1
+Twin Loop,  C 101 123 C 104 171 D 10 100.5 D 180 191, output_spisintetic_teste/1/495/1_495_1
+Arch, none, output_spisintetic_teste/1/496/1_496_1
+Whorl,  C 102 106 C 102 148 C 6.95261e-310 -5.12206e+303 D 30 212 D 151 210 D 6.92597e-310 0, output_spisintetic_teste/1/497/1_497_1
+Tented Arch,  C 107 131 D 107 198, output_spisintetic_teste/1/498/1_498_1
+Tented Arch,  C 97 121 D 97 188, output_spisintetic_teste/1/499/1_499_1
+Whorl,  C 105 110 C 110 144 C 6.95321e-310 -3.45762e+300 D 37 219 D 139 208 D 6.90801e-310 0, output_spisintetic_teste/1/500/1_500_1
+Arch, none, output_spisintetic_teste/1/501/1_501_1
+Arch, none, output_spisintetic_teste/1/502/1_502_1
+Arch, none, output_spisintetic_teste/1/503/1_503_1
+Right LOOP,  C 144 156 D 61 215, output_spisintetic_teste/1/504/1_504_1
+Left LOOP,  C 94 164 D 155 217, output_spisintetic_teste/1/505/1_505_1
+Whorl,  C 103 110 C 108 168 C 6.95322e-310 -3.46799e+299 D 48 205 D 146 204 D 2.122e-314 2.72795e-314, output_spisintetic_teste/1/506/1_506_1
+Twin Loop,  C 108 113 C 93 166 D 10 100.5 D 180 203, output_spisintetic_teste/1/507/1_507_1
+Left LOOP,  C 79 168 D 157 214, output_spisintetic_teste/1/508/1_508_1
+Twin Loop,  C 96 120 C 115 174 D 10 100.5 D 180 190, output_spisintetic_teste/1/509/1_509_1
+Tented Arch,  C 96 145 D 96 185, output_spisintetic_teste/1/510/1_510_1
+Right LOOP,  C 124 161 D 53 217, output_spisintetic_teste/1/511/1_511_1
+Arch, none, output_spisintetic_teste/1/512/1_512_1
+Twin Loop,  C 108 123 C 116 180 D 10 100.5 D 180 197, output_spisintetic_teste/1/513/1_513_1
+Right LOOP,  C 141 152 D 62 211, output_spisintetic_teste/1/514/1_514_1
+Left LOOP,  C 88 166 D 156 211, output_spisintetic_teste/1/515/1_515_1
+Twin Loop,  C 105 117 C 101 168 D 10 100.5 D 180 188, output_spisintetic_teste/1/516/1_516_1
+Tented Arch,  C 86 124 D 86 199, output_spisintetic_teste/1/517/1_517_1
+Whorl,  C 102 108 C 103 137 C 6.95335e-310 -7.2569e+300 D 35 217 D 136 212 D 6.90982e-310 0, output_spisintetic_teste/1/518/1_518_1
+Twin Loop,  C 99 123 C 90 166 D 10 100.5 D 180 197, output_spisintetic_teste/1/519/1_519_1
+Arch, none, output_spisintetic_teste/1/520/1_520_1
+Twin Loop,  C 92 122 C 111 168 D 10 100.5 D 180 187, output_spisintetic_teste/1/521/1_521_1
+Right LOOP,  C 114 168 D 66 212, output_spisintetic_teste/1/522/1_522_1
+Left LOOP,  C 81 161 D 150 218, output_spisintetic_teste/1/523/1_523_1
+Arch, none, output_spisintetic_teste/1/524/1_524_1
+Tented Arch,  C 91 143 D 91 197, output_spisintetic_teste/1/525/1_525_1
+Arch, none, output_spisintetic_teste/1/526/1_526_1
+Left LOOP,  C 86 150 D 154 213, output_spisintetic_teste/1/527/1_527_1
+Right LOOP,  C 139 150 D 65 219, output_spisintetic_teste/1/528/1_528_1
+Twin Loop,  C 92 121 C 91 173 D 10 100.5 D 180 200, output_spisintetic_teste/1/529/1_529_1
+Twin Loop,  C 111 116 C 98 150 D 10 100.5 D 180 205, output_spisintetic_teste/1/530/1_530_1
+Left LOOP,  C 79 162 D 153 219, output_spisintetic_teste/1/531/1_531_1
+Tented Arch,  C 92 149 D 92 199, output_spisintetic_teste/1/532/1_532_1
+Twin Loop,  C 115 112 C 112 160 D 10 100.5 D 180 208, output_spisintetic_teste/1/533/1_533_1
+Left LOOP,  C 80 163 D 157 219, output_spisintetic_teste/1/534/1_534_1
+Left LOOP,  C 100 160 D 154 214, output_spisintetic_teste/1/535/1_535_1
+Tented Arch,  C 113 149 D 113 190, output_spisintetic_teste/1/536/1_536_1
+Twin Loop,  C 91 123 C 100 165 D 10 100.5 D 180 195, output_spisintetic_teste/1/537/1_537_1
+Tented Arch,  C 81 126 D 81 194, output_spisintetic_teste/1/538/1_538_1
+Whorl,  C 109 104 C 106 148 C 6.95287e-310 -1.42991e+307 D 46 202 D 152 213 D 6.94533e-310 0, output_spisintetic_teste/1/539/1_539_1
+Arch, none, output_spisintetic_teste/1/540/1_540_1
+Whorl,  C 102 117 C 105 172 C 6.95307e-310 -6.60883e+299 D 37 202 D 166 208 D 4.94066e-324 6.90408e-310, output_spisintetic_teste/1/541/1_541_1
+Tented Arch,  C 112 126 D 112 194, output_spisintetic_teste/1/542/1_542_1
+Whorl,  C 108 118 C 100 171 C 6.95289e-310 -4.81836e+300 D 48 200 D 169 219 D 6.90888e-310 0, output_spisintetic_teste/1/543/1_543_1
+Twin Loop,  C 114 122 C 102 162 D 10 100.5 D 180 210, output_spisintetic_teste/1/544/1_544_1
+Right LOOP,  C 110 157 D 59 220, output_spisintetic_teste/1/545/1_545_1
+Left LOOP,  C 90 152 D 151 212, output_spisintetic_teste/1/546/1_546_1
+Arch, none, output_spisintetic_teste/1/547/1_547_1
+Twin Loop,  C 99 120 C 111 173 D 10 100.5 D 180 219, output_spisintetic_teste/1/548/1_548_1
+Left LOOP,  C 90 159 D 160 220, output_spisintetic_teste/1/549/1_549_1
+Arch, none, output_spisintetic_teste/1/550/1_550_1
+Twin Loop,  C 116 117 C 91 176 D 10 100.5 D 180 181, output_spisintetic_teste/1/551/1_551_1
+Tented Arch,  C 88 131 D 88 194, output_spisintetic_teste/1/552/1_552_1
+Arch, none, output_spisintetic_teste/1/553/1_553_1
+Arch, none, output_spisintetic_teste/1/554/1_554_1
+Left LOOP,  C 93 163 D 153 214, output_spisintetic_teste/1/555/1_555_1
+Twin Loop,  C 99 122 C 105 168 D 10 100.5 D 180 213, output_spisintetic_teste/1/556/1_556_1
+Right LOOP,  C 109 157 D 68 210, output_spisintetic_teste/1/557/1_557_1
+Twin Loop,  C 118 114 C 104 151 D 10 100.5 D 180 199, output_spisintetic_teste/1/558/1_558_1
+Tented Arch,  C 117 138 D 117 197, output_spisintetic_teste/1/559/1_559_1
+Tented Arch,  C 109 150 D 109 200, output_spisintetic_teste/1/560/1_560_1
+Tented Arch,  C 81 136 D 81 195, output_spisintetic_teste/1/561/1_561_1
+Right LOOP,  C 139 150 D 68 219, output_spisintetic_teste/1/562/1_562_1
+Tented Arch,  C 81 141 D 81 199, output_spisintetic_teste/1/563/1_563_1
+Whorl,  C 110 100 C 107 176 C 6.95289e-310 -4.75882e+299 D 30 207 D 131 216 D 6.90314e-310 0, output_spisintetic_teste/1/564/1_564_1
+Right LOOP,  C 125 160 D 60 217, output_spisintetic_teste/1/565/1_565_1
+Tented Arch,  C 118 143 D 118 181, output_spisintetic_teste/1/566/1_566_1
+Whorl,  C 110 109 C 106 165 C 6.95263e-310 -9.41087e+300 D 34 206 D 150 215 D 6.9105e-310 6.9105e-310, output_spisintetic_teste/1/567/1_567_1
+Whorl,  C 110 118 C 103 176 C 6.95306e-310 -7.44845e+305 D 33 206 D 152 209 D 6.93818e-310 6.93818e-310, output_spisintetic_teste/1/568/1_568_1
+Whorl,  C 106 115 C 104 139 C 6.95298e-310 -1.91699e+305 D 35 209 D 165 201 D 6.93484e-310 0, output_spisintetic_teste/1/569/1_569_1
+Whorl,  C 102 105 C 102 136 C 6.95263e-310 -1.35597e+299 D 49 202 D 173 220 D 4.94066e-324 6.90009e-310, output_spisintetic_teste/1/570/1_570_1
+Right LOOP,  C 119 168 D 50 220, output_spisintetic_teste/1/571/1_571_1
+Twin Loop,  C 105 113 C 119 168 D 10 100.5 D 180 211, output_spisintetic_teste/1/572/1_572_1
+Whorl,  C 105 111 C 100 153 C 6.95283e-310 -2.64323e+303 D 44 211 D 165 215 D 6.92437e-310 6.92437e-310, output_spisintetic_teste/1/573/1_573_1
+Left LOOP,  C 70 154 D 155 210, output_spisintetic_teste/1/574/1_574_1
+Left LOOP,  C 75 170 D 150 212, output_spisintetic_teste/1/575/1_575_1
+Left LOOP,  C 79 166 D 153 212, output_spisintetic_teste/1/576/1_576_1
+Arch, none, output_spisintetic_teste/1/577/1_577_1
+Twin Loop,  C 97 119 C 109 167 D 10 100.5 D 180 192, output_spisintetic_teste/1/578/1_578_1
+Twin Loop,  C 97 117 C 117 154 D 10 100.5 D 180 217, output_spisintetic_teste/1/579/1_579_1
+Right LOOP,  C 105 161 D 61 216, output_spisintetic_teste/1/580/1_580_1
+Right LOOP,  C 104 159 D 62 211, output_spisintetic_teste/1/581/1_581_1
+Right LOOP,  C 129 170 D 61 218, output_spisintetic_teste/1/582/1_582_1
+Whorl,  C 100 111 C 109 150 C 6.95314e-310 -5.41335e+301 D 33 220 D 132 203 D 2.122e-314 2.343e-314, output_spisintetic_teste/1/583/1_583_1
+Twin Loop,  C 101 116 C 97 165 D 10 100.5 D 180 212, output_spisintetic_teste/1/584/1_584_1
+Arch, none, output_spisintetic_teste/1/585/1_585_1
+Right LOOP,  C 104 158 D 59 215, output_spisintetic_teste/1/586/1_586_1
+Left LOOP,  C 89 153 D 154 213, output_spisintetic_teste/1/587/1_587_1
+Tented Arch,  C 91 147 D 91 195, output_spisintetic_teste/1/588/1_588_1
+Whorl,  C 109 117 C 103 132 C 6.9526e-310 -1.21825e+303 D 32 213 D 145 209 D 6.92242e-310 6.92242e-310, output_spisintetic_teste/1/589/1_589_1
+Tented Arch,  C 81 131 D 81 184, output_spisintetic_teste/1/590/1_590_1
+Whorl,  C 104 103 C 110 151 C 6.95331e-310 -2.72193e+305 D 36 211 D 143 203 D 2.122e-314 2.97861e-314, output_spisintetic_teste/1/591/1_591_1
+Twin Loop,  C 108 112 C 112 171 D 10 100.5 D 180 218, output_spisintetic_teste/1/592/1_592_1
+Tented Arch,  C 115 128 D 115 181, output_spisintetic_teste/1/593/1_593_1
+Right LOOP,  C 143 164 D 68 219, output_spisintetic_teste/1/594/1_594_1
+Tented Arch,  C 89 144 D 89 181, output_spisintetic_teste/1/595/1_595_1
+Arch, none, output_spisintetic_teste/1/596/1_596_1
+Right LOOP,  C 120 160 D 54 218, output_spisintetic_teste/1/597/1_597_1
+Twin Loop,  C 118 120 C 93 179 D 10 100.5 D 180 191, output_spisintetic_teste/1/598/1_598_1
+Whorl,  C 103 115 C 105 143 C 6.95318e-310 -1.98037e+301 D 35 217 D 174 217 D 6.91235e-310 6.91236e-310, output_spisintetic_teste/1/599/1_599_1
+Whorl,  C 110 115 C 106 164 C 6.95318e-310 -1.85134e+307 D 30 219 D 149 215 D 4.94066e-324 6.94597e-310, output_spisintetic_teste/1/600/1_600_1
+Whorl,  C 106 111 C 110 147 C 6.95272e-310 -4.87373e+299 D 30 211 D 171 212 D 4.94066e-324 6.9032e-310, output_spisintetic_teste/1/601/1_601_1
+Arch, none, output_spisintetic_teste/1/602/1_602_1
+Whorl,  C 104 104 C 100 135 C 6.95296e-310 -nan D 30 201 D 146 212 D 6.95198e-310 0, output_spisintetic_teste/1/603/1_603_1
+Whorl,  C 103 109 C 106 135 C 6.95292e-310 -4.77629e+305 D 39 213 D 155 207 D 2.122e-314 3.99496e-314, output_spisintetic_teste/1/604/1_604_1
+Twin Loop,  C 94 121 C 113 164 D 10 100.5 D 180 198, output_spisintetic_teste/1/605/1_605_1
+Left LOOP,  C 95 160 D 150 218, output_spisintetic_teste/1/606/1_606_1
+Right LOOP,  C 111 160 D 69 216, output_spisintetic_teste/1/607/1_607_1
+Tented Arch,  C 109 122 D 109 182, output_spisintetic_teste/1/608/1_608_1
+Whorl,  C 108 118 C 109 175 C 6.95287e-310 -8.95157e+305 D 31 204 D 177 217 D 6.93854e-310 6.93854e-310, output_spisintetic_teste/1/609/1_609_1
+Right LOOP,  C 117 164 D 52 210, output_spisintetic_teste/1/610/1_610_1
+Right LOOP,  C 119 150 D 60 213, output_spisintetic_teste/1/611/1_611_1
+Twin Loop,  C 100 118 C 101 159 D 10 100.5 D 180 192, output_spisintetic_teste/1/612/1_612_1
+Left LOOP,  C 81 164 D 159 220, output_spisintetic_teste/1/613/1_613_1
+Twin Loop,  C 112 125 C 90 176 D 10 100.5 D 180 218, output_spisintetic_teste/1/614/1_614_1
+Tented Arch,  C 86 138 D 86 195, output_spisintetic_teste/1/615/1_615_1
+Whorl,  C 109 107 C 102 155 C 6.95292e-310 -9.98402e+301 D 44 203 D 138 201 D 4.94066e-324 6.91629e-310, output_spisintetic_teste/1/616/1_616_1
+Tented Arch,  C 90 130 D 90 188, output_spisintetic_teste/1/617/1_617_1
+Arch, none, output_spisintetic_teste/1/618/1_618_1
+Arch, none, output_spisintetic_teste/1/619/1_619_1
+Twin Loop,  C 118 114 C 112 172 D 10 100.5 D 180 188, output_spisintetic_teste/1/620/1_620_1
+Left LOOP,  C 94 153 D 158 210, output_spisintetic_teste/1/621/1_621_1
+Tented Arch,  C 102 141 D 102 200, output_spisintetic_teste/1/622/1_622_1
+Whorl,  C 109 101 C 107 175 C 6.95289e-310 -4.83005e+299 D 44 203 D 155 206 D 6.90318e-310 6.90318e-310, output_spisintetic_teste/1/623/1_623_1
+Left LOOP,  C 75 163 D 156 210, output_spisintetic_teste/1/624/1_624_1
+Twin Loop,  C 106 110 C 110 155 D 10 100.5 D 180 188, output_spisintetic_teste/1/625/1_625_1
+Left LOOP,  C 76 167 D 154 219, output_spisintetic_teste/1/626/1_626_1
+Right LOOP,  C 136 152 D 63 211, output_spisintetic_teste/1/627/1_627_1
+Tented Arch,  C 104 121 D 104 199, output_spisintetic_teste/1/628/1_628_1
+Right LOOP,  C 111 154 D 69 216, output_spisintetic_teste/1/629/1_629_1
+Right LOOP,  C 144 158 D 51 212, output_spisintetic_teste/1/630/1_630_1
+Tented Arch,  C 95 144 D 95 197, output_spisintetic_teste/1/631/1_631_1
+Left LOOP,  C 94 168 D 158 219, output_spisintetic_teste/1/632/1_632_1
+Left LOOP,  C 82 155 D 157 214, output_spisintetic_teste/1/633/1_633_1
+Whorl,  C 102 111 C 100 155 C 6.95253e-310 -3.0786e+299 D 41 216 D 176 211 D 6.90215e-310 6.90215e-310, output_spisintetic_teste/1/634/1_634_1
+Tented Arch,  C 81 142 D 81 199, output_spisintetic_teste/1/635/1_635_1
+Whorl,  C 109 110 C 108 138 C 6.95299e-310 -5.11805e+299 D 50 213 D 136 202 D 6.90333e-310 0, output_spisintetic_teste/1/636/1_636_1
+Arch, none, output_spisintetic_teste/1/637/1_637_1
+Whorl,  C 105 115 C 110 136 C 6.95277e-310 -1.8236e+304 D 49 203 D 158 210 D 4.94066e-324 6.92902e-310, output_spisintetic_teste/1/638/1_638_1
+Left LOOP,  C 82 160 D 155 216, output_spisintetic_teste/1/639/1_639_1
+Right LOOP,  C 128 155 D 69 211, output_spisintetic_teste/1/640/1_640_1
+Arch, none, output_spisintetic_teste/1/641/1_641_1
+Right LOOP,  C 101 167 D 60 210, output_spisintetic_teste/1/642/1_642_1
+Tented Arch,  C 101 136 D 101 199, output_spisintetic_teste/1/643/1_643_1
+Arch, none, output_spisintetic_teste/1/644/1_644_1
+Twin Loop,  C 90 115 C 113 164 D 10 100.5 D 180 197, output_spisintetic_teste/1/645/1_645_1
+Arch, none, output_spisintetic_teste/1/646/1_646_1
+Twin Loop,  C 118 120 C 95 175 D 10 100.5 D 180 199, output_spisintetic_teste/1/647/1_647_1
+Left LOOP,  C 74 154 D 152 211, output_spisintetic_teste/1/648/1_648_1
+Tented Arch,  C 85 140 D 85 184, output_spisintetic_teste/1/649/1_649_1
+Twin Loop,  C 120 111 C 118 179 D 10 100.5 D 180 187, output_spisintetic_teste/1/650/1_650_1
+Whorl,  C 104 118 C 108 162 C 6.95323e-310 -4.30906e+303 D 41 204 D 132 205 D 4.94066e-324 6.92547e-310, output_spisintetic_teste/1/651/1_651_1
+Left LOOP,  C 73 150 D 154 210, output_spisintetic_teste/1/652/1_652_1
+Tented Arch,  C 114 124 D 114 198, output_spisintetic_teste/1/653/1_653_1
+Whorl,  C 105 107 C 110 153 C 6.95285e-310 -4.39342e+299 D 43 210 D 134 210 D 2.122e-314 3.17568e-314, output_spisintetic_teste/1/654/1_654_1
+Whorl,  C 101 111 C 100 139 C 6.95319e-310 -9.76938e+302 D 30 211 D 135 209 D 2.122e-314 2.96389e-314, output_spisintetic_teste/1/655/1_655_1
+Twin Loop,  C 112 111 C 96 180 D 10 100.5 D 180 203, output_spisintetic_teste/1/656/1_656_1
+Arch, none, output_spisintetic_teste/1/657/1_657_1
+Tented Arch,  C 100 138 D 100 200, output_spisintetic_teste/1/658/1_658_1
+Arch, none, output_spisintetic_teste/1/659/1_659_1
+Tented Arch,  C 95 131 D 95 181, output_spisintetic_teste/1/660/1_660_1
+Right LOOP,  C 125 167 D 51 212, output_spisintetic_teste/1/661/1_661_1
+Whorl,  C 108 109 C 100 131 C 6.95303e-310 -1.37987e+306 D 40 219 D 149 208 D 2.122e-314 3.64992e-314, output_spisintetic_teste/1/662/1_662_1
+Tented Arch,  C 110 135 D 110 188, output_spisintetic_teste/1/663/1_663_1
+Twin Loop,  C 91 111 C 114 179 D 10 100.5 D 180 189, output_spisintetic_teste/1/664/1_664_1
+Arch, none, output_spisintetic_teste/1/665/1_665_1
+Twin Loop,  C 93 115 C 93 154 D 10 100.5 D 180 185, output_spisintetic_teste/1/666/1_666_1
+Arch, none, output_spisintetic_teste/1/667/1_667_1
+Twin Loop,  C 119 123 C 104 153 D 10 100.5 D 180 212, output_spisintetic_teste/1/668/1_668_1
+Right LOOP,  C 101 152 D 56 220, output_spisintetic_teste/1/669/1_669_1
+Arch, none, output_spisintetic_teste/1/670/1_670_1
+Right LOOP,  C 109 160 D 59 215, output_spisintetic_teste/1/671/1_671_1
+Whorl,  C 106 116 C 108 162 C 6.95258e-310 -6.66211e+304 D 46 203 D 175 209 D 4.94066e-324 6.93217e-310, output_spisintetic_teste/1/672/1_672_1
+Whorl,  C 109 104 C 105 156 C 6.95313e-310 -5.65734e+301 D 43 200 D 148 208 D 6.91485e-310 0, output_spisintetic_teste/1/673/1_673_1
+Right LOOP,  C 101 170 D 61 213, output_spisintetic_teste/1/674/1_674_1
+Twin Loop,  C 102 123 C 103 163 D 10 100.5 D 180 220, output_spisintetic_teste/1/675/1_675_1
+Arch, none, output_spisintetic_teste/1/676/1_676_1
+Twin Loop,  C 92 110 C 101 158 D 10 100.5 D 180 220, output_spisintetic_teste/1/677/1_677_1
+Left LOOP,  C 81 154 D 152 213, output_spisintetic_teste/1/678/1_678_1
+Right LOOP,  C 122 169 D 52 215, output_spisintetic_teste/1/679/1_679_1
+Right LOOP,  C 110 155 D 56 211, output_spisintetic_teste/1/680/1_680_1
+Twin Loop,  C 115 112 C 94 170 D 10 100.5 D 180 219, output_spisintetic_teste/1/681/1_681_1
+Whorl,  C 103 119 C 110 140 C 6.95256e-310 -1.60189e+299 D 36 203 D 132 206 D 4.94066e-324 6.90058e-310, output_spisintetic_teste/1/682/1_682_1
+Left LOOP,  C 95 151 D 158 216, output_spisintetic_teste/1/683/1_683_1
+Right LOOP,  C 127 168 D 68 217, output_spisintetic_teste/1/684/1_684_1
+Tented Arch,  C 117 131 D 117 195, output_spisintetic_teste/1/685/1_685_1
+Arch, none, output_spisintetic_teste/1/686/1_686_1
+Right LOOP,  C 125 167 D 67 217, output_spisintetic_teste/1/687/1_687_1
+Whorl,  C 110 120 C 103 160 C 6.95307e-310 -1.13568e+299 D 44 200 D 139 202 D 2.122e-314 3.93252e-314, output_spisintetic_teste/1/688/1_688_1
+Twin Loop,  C 101 122 C 110 177 D 10 100.5 D 180 207, output_spisintetic_teste/1/689/1_689_1
+Right LOOP,  C 130 168 D 58 213, output_spisintetic_teste/1/690/1_690_1
+Whorl,  C 108 117 C 108 139 C 6.95251e-310 -2.48737e+305 D 40 207 D 175 207 D 2.122e-314 2.83244e-314, output_spisintetic_teste/1/691/1_691_1
+Tented Arch,  C 119 150 D 119 200, output_spisintetic_teste/1/692/1_692_1
+Right LOOP,  C 138 150 D 68 214, output_spisintetic_teste/1/693/1_693_1
+Arch, none, output_spisintetic_teste/1/694/1_694_1
+Twin Loop,  C 92 114 C 116 150 D 10 100.5 D 180 190, output_spisintetic_teste/1/695/1_695_1
+Twin Loop,  C 120 125 C 96 174 D 10 100.5 D 180 189, output_spisintetic_teste/1/696/1_696_1
+Arch, none, output_spisintetic_teste/1/697/1_697_1
+Tented Arch,  C 108 129 D 108 193, output_spisintetic_teste/1/698/1_698_1
+Arch, none, output_spisintetic_teste/1/699/1_699_1
+Tented Arch,  C 82 144 D 82 199, output_spisintetic_teste/1/700/1_700_1
+Right LOOP,  C 128 166 D 62 214, output_spisintetic_teste/1/701/1_701_1
+Tented Arch,  C 88 125 D 88 195, output_spisintetic_teste/1/702/1_702_1
+Right LOOP,  C 141 170 D 70 220, output_spisintetic_teste/1/703/1_703_1
+Whorl,  C 110 118 C 103 177 C 6.95335e-310 -3.34011e+302 D 30 209 D 170 212 D 2.122e-314 3.36547e-314, output_spisintetic_teste/1/704/1_704_1
+Left LOOP,  C 80 169 D 157 218, output_spisintetic_teste/1/705/1_705_1
+Tented Arch,  C 101 146 D 101 189, output_spisintetic_teste/1/706/1_706_1
+Arch, none, output_spisintetic_teste/1/707/1_707_1
+Left LOOP,  C 92 157 D 154 210, output_spisintetic_teste/1/708/1_708_1
+Whorl,  C 101 110 C 105 177 C 6.95254e-310 -7.5795e+301 D 42 214 D 154 207 D 2.122e-314 2.43464e-314, output_spisintetic_teste/1/709/1_709_1
+Tented Arch,  C 82 148 D 82 197, output_spisintetic_teste/1/710/1_710_1
+Arch, none, output_spisintetic_teste/1/711/1_711_1
+Arch, none, output_spisintetic_teste/1/712/1_712_1
+Tented Arch,  C 119 124 D 119 194, output_spisintetic_teste/1/713/1_713_1
+Tented Arch,  C 105 146 D 105 181, output_spisintetic_teste/1/714/1_714_1
+Right LOOP,  C 137 168 D 50 210, output_spisintetic_teste/1/715/1_715_1
+Twin Loop,  C 92 118 C 119 171 D 10 100.5 D 180 184, output_spisintetic_teste/1/716/1_716_1
+Whorl,  C 102 112 C 101 138 C 6.95322e-310 -3.04776e+299 D 47 200 D 134 217 D 6.90212e-310 0, output_spisintetic_teste/1/717/1_717_1
+Left LOOP,  C 72 156 D 150 213, output_spisintetic_teste/1/718/1_718_1
+Arch, none, output_spisintetic_teste/1/719/1_719_1
+Tented Arch,  C 112 137 D 112 192, output_spisintetic_teste/1/720/1_720_1
+Arch, none, output_spisintetic_teste/1/721/1_721_1
+Left LOOP,  C 97 152 D 159 210, output_spisintetic_teste/1/722/1_722_1
+Right LOOP,  C 139 165 D 52 215, output_spisintetic_teste/1/723/1_723_1
+Arch, none, output_spisintetic_teste/1/724/1_724_1
+Whorl,  C 108 117 C 105 168 C 6.95288e-310 -5.31756e+304 D 49 205 D 147 209 D 2.122e-314 3.59197e-314, output_spisintetic_teste/1/725/1_725_1
+Whorl,  C 108 107 C 105 171 C 6.9531e-310 -nan D 35 208 D 167 215 D 2.122e-314 3.02113e-314, output_spisintetic_teste/1/726/1_726_1
+Left LOOP,  C 97 152 D 153 219, output_spisintetic_teste/1/727/1_727_1
+Whorl,  C 102 103 C 100 137 C 6.95329e-310 -6.1774e+305 D 45 217 D 168 219 D 6.93767e-310 0, output_spisintetic_teste/1/728/1_728_1
+Twin Loop,  C 105 115 C 110 174 D 10 100.5 D 180 181, output_spisintetic_teste/1/729/1_729_1
+Whorl,  C 100 105 C 106 145 C 6.95326e-310 -8.54902e+303 D 34 217 D 135 206 D 6.92714e-310 0, output_spisintetic_teste/1/730/1_730_1
+Right LOOP,  C 143 164 D 60 218, output_spisintetic_teste/1/731/1_731_1
+Right LOOP,  C 129 159 D 57 216, output_spisintetic_teste/1/732/1_732_1
+Left LOOP,  C 76 155 D 155 218, output_spisintetic_teste/1/733/1_733_1
+Arch, none, output_spisintetic_teste/1/734/1_734_1
+Tented Arch,  C 98 134 D 98 180, output_spisintetic_teste/1/735/1_735_1
+Arch, none, output_spisintetic_teste/1/736/1_736_1
+Right LOOP,  C 102 165 D 66 217, output_spisintetic_teste/1/737/1_737_1
+Left LOOP,  C 82 161 D 154 220, output_spisintetic_teste/1/738/1_738_1
+Right LOOP,  C 112 163 D 62 212, output_spisintetic_teste/1/739/1_739_1
+Tented Arch,  C 107 141 D 107 198, output_spisintetic_teste/1/740/1_740_1
+Tented Arch,  C 108 144 D 108 182, output_spisintetic_teste/1/741/1_741_1
+Tented Arch,  C 99 138 D 99 190, output_spisintetic_teste/1/742/1_742_1
+Arch, none, output_spisintetic_teste/1/743/1_743_1
+Right LOOP,  C 149 166 D 54 220, output_spisintetic_teste/1/744/1_744_1
+Whorl,  C 110 100 C 105 165 C 6.95315e-310 -7.96274e+298 D 42 203 D 159 217 D 2.122e-314 2.58748e-314, output_spisintetic_teste/1/745/1_745_1
+Tented Arch,  C 94 120 D 94 191, output_spisintetic_teste/1/746/1_746_1
+Twin Loop,  C 101 115 C 109 163 D 10 100.5 D 180 185, output_spisintetic_teste/1/747/1_747_1
+Left LOOP,  C 90 153 D 151 220, output_spisintetic_teste/1/748/1_748_1
+Arch, none, output_spisintetic_teste/1/749/1_749_1
+Right LOOP,  C 121 156 D 57 216, output_spisintetic_teste/1/750/1_750_1
+Arch, none, output_spisintetic_teste/1/751/1_751_1
+Tented Arch,  C 118 132 D 118 189, output_spisintetic_teste/1/752/1_752_1
+Right LOOP,  C 146 164 D 51 214, output_spisintetic_teste/1/753/1_753_1
+Whorl,  C 103 119 C 105 146 C 6.9533e-310 -1.05448e+299 D 50 209 D 141 206 D 6.89947e-310 0, output_spisintetic_teste/1/754/1_754_1
+Arch, none, output_spisintetic_teste/1/755/1_755_1
+Twin Loop,  C 119 111 C 118 152 D 10 100.5 D 180 205, output_spisintetic_teste/1/756/1_756_1
+Twin Loop,  C 91 118 C 95 163 D 10 100.5 D 180 188, output_spisintetic_teste/1/757/1_757_1
+Right LOOP,  C 117 153 D 67 219, output_spisintetic_teste/1/758/1_758_1
+Whorl,  C 104 103 C 106 147 C 6.95279e-310 -3.57481e+302 D 43 207 D 167 201 D 6.91948e-310 0, output_spisintetic_teste/1/759/1_759_1
+Right LOOP,  C 126 164 D 51 213, output_spisintetic_teste/1/760/1_760_1
+Right LOOP,  C 145 157 D 58 218, output_spisintetic_teste/1/761/1_761_1
+Left LOOP,  C 89 150 D 154 218, output_spisintetic_teste/1/762/1_762_1
+Tented Arch,  C 119 148 D 119 183, output_spisintetic_teste/1/763/1_763_1
+Arch, none, output_spisintetic_teste/1/764/1_764_1
+Arch, none, output_spisintetic_teste/1/765/1_765_1
+Arch, none, output_spisintetic_teste/1/766/1_766_1
+Right LOOP,  C 117 158 D 56 219, output_spisintetic_teste/1/767/1_767_1
+Whorl,  C 104 101 C 105 157 C 6.95283e-310 -1.61729e+303 D 42 219 D 131 220 D 2.122e-314 3.04179e-314, output_spisintetic_teste/1/768/1_768_1
+Tented Arch,  C 89 140 D 89 195, output_spisintetic_teste/1/769/1_769_1
+Twin Loop,  C 114 117 C 111 172 D 10 100.5 D 180 182, output_spisintetic_teste/1/770/1_770_1
+Left LOOP,  C 70 166 D 154 218, output_spisintetic_teste/1/771/1_771_1
+Left LOOP,  C 87 153 D 150 218, output_spisintetic_teste/1/772/1_772_1
+Right LOOP,  C 114 152 D 53 213, output_spisintetic_teste/1/773/1_773_1
+Tented Arch,  C 118 136 D 118 197, output_spisintetic_teste/1/774/1_774_1
+Arch, none, output_spisintetic_teste/1/775/1_775_1
+Tented Arch,  C 94 122 D 94 188, output_spisintetic_teste/1/776/1_776_1
+Twin Loop,  C 115 112 C 113 154 D 10 100.5 D 180 206, output_spisintetic_teste/1/777/1_777_1
+Left LOOP,  C 98 150 D 150 218, output_spisintetic_teste/1/778/1_778_1
+Tented Arch,  C 87 130 D 87 191, output_spisintetic_teste/1/779/1_779_1
+Right LOOP,  C 138 170 D 70 213, output_spisintetic_teste/1/780/1_780_1
+Right LOOP,  C 101 162 D 57 219, output_spisintetic_teste/1/781/1_781_1
+Twin Loop,  C 102 122 C 113 174 D 10 100.5 D 180 199, output_spisintetic_teste/1/782/1_782_1
+Twin Loop,  C 117 122 C 98 163 D 10 100.5 D 180 216, output_spisintetic_teste/1/783/1_783_1
+Left LOOP,  C 71 160 D 157 216, output_spisintetic_teste/1/784/1_784_1
+Right LOOP,  C 146 151 D 53 210, output_spisintetic_teste/1/785/1_785_1
+Left LOOP,  C 77 152 D 158 220, output_spisintetic_teste/1/786/1_786_1
+Whorl,  C 104 107 C 109 133 C 6.95251e-310 -8.91359e+307 D 40 209 D 168 204 D 4.94066e-324 6.94993e-310, output_spisintetic_teste/1/787/1_787_1
+Twin Loop,  C 112 121 C 111 154 D 10 100.5 D 180 180, output_spisintetic_teste/1/788/1_788_1
+Twin Loop,  C 116 124 C 110 175 D 10 100.5 D 180 189, output_spisintetic_teste/1/789/1_789_1
+Arch, none, output_spisintetic_teste/1/790/1_790_1
+Arch, none, output_spisintetic_teste/1/791/1_791_1
+Left LOOP,  C 88 165 D 160 214, output_spisintetic_teste/1/792/1_792_1
+Twin Loop,  C 109 118 C 104 170 D 10 100.5 D 180 206, output_spisintetic_teste/1/793/1_793_1
+Arch, none, output_spisintetic_teste/1/794/1_794_1
+Right LOOP,  C 100 158 D 57 219, output_spisintetic_teste/1/795/1_795_1
+Whorl,  C 107 102 C 106 168 C 6.95303e-310 -9.27684e+302 D 40 220 D 146 212 D 6.9217e-310 6.9217e-310, output_spisintetic_teste/1/796/1_796_1
+Right LOOP,  C 128 169 D 66 211, output_spisintetic_teste/1/797/1_797_1
+Left LOOP,  C 90 162 D 154 218, output_spisintetic_teste/1/798/1_798_1
+Whorl,  C 110 112 C 100 156 C 6.95293e-310 -6.09754e+301 D 33 218 D 171 214 D 4.94066e-324 6.91503e-310, output_spisintetic_teste/1/799/1_799_1
+Left LOOP,  C 84 153 D 155 211, output_spisintetic_teste/1/800/1_800_1
+Tented Arch,  C 107 128 D 107 188, output_spisintetic_teste/1/801/1_801_1
+Whorl,  C 106 107 C 103 173 C 6.95255e-310 -2.25044e+301 D 31 214 D 130 215 D 6.9127e-310 0, output_spisintetic_teste/1/802/1_802_1
+Whorl,  C 110 104 C 101 162 C 6.95262e-310 -3.38756e+302 D 47 215 D 165 212 D 6.91936e-310 6.91936e-310, output_spisintetic_teste/1/803/1_803_1
+Arch, none, output_spisintetic_teste/1/804/1_804_1
+Right LOOP,  C 115 158 D 62 211, output_spisintetic_teste/1/805/1_805_1
+Twin Loop,  C 113 120 C 117 167 D 10 100.5 D 180 213, output_spisintetic_teste/1/806/1_806_1
+Arch, none, output_spisintetic_teste/1/807/1_807_1
+Tented Arch,  C 90 148 D 90 185, output_spisintetic_teste/1/808/1_808_1
+Twin Loop,  C 92 124 C 110 173 D 10 100.5 D 180 182, output_spisintetic_teste/1/809/1_809_1
+Arch, none, output_spisintetic_teste/1/810/1_810_1
+Twin Loop,  C 108 119 C 102 151 D 10 100.5 D 180 183, output_spisintetic_teste/1/811/1_811_1
+Tented Arch,  C 80 146 D 80 185, output_spisintetic_teste/1/812/1_812_1
+Twin Loop,  C 110 116 C 95 172 D 10 100.5 D 180 216, output_spisintetic_teste/1/813/1_813_1
+Right LOOP,  C 122 163 D 70 214, output_spisintetic_teste/1/814/1_814_1
+Tented Arch,  C 98 126 D 98 185, output_spisintetic_teste/1/815/1_815_1
+Whorl,  C 106 110 C 110 170 C 6.95296e-310 -5.10113e+303 D 46 215 D 152 218 D 4.94066e-324 6.92596e-310, output_spisintetic_teste/1/816/1_816_1
+Twin Loop,  C 93 114 C 91 180 D 10 100.5 D 180 182, output_spisintetic_teste/1/817/1_817_1
+Twin Loop,  C 112 125 C 112 152 D 10 100.5 D 180 213, output_spisintetic_teste/1/818/1_818_1
+Tented Arch,  C 104 130 D 104 185, output_spisintetic_teste/1/819/1_819_1
+Twin Loop,  C 102 110 C 103 156 D 10 100.5 D 180 180, output_spisintetic_teste/1/820/1_820_1
+Arch, none, output_spisintetic_teste/1/821/1_821_1
+Tented Arch,  C 93 131 D 93 180, output_spisintetic_teste/1/822/1_822_1
+Twin Loop,  C 113 112 C 100 180 D 10 100.5 D 180 204, output_spisintetic_teste/1/823/1_823_1
+Whorl,  C 104 110 C 100 158 C 6.95333e-310 -1.67621e+307 D 33 207 D 137 214 D 6.9457e-310 0, output_spisintetic_teste/1/824/1_824_1
+Whorl,  C 106 116 C 100 164 C 6.95281e-310 -4.58735e+305 D 49 204 D 170 212 D 6.9369e-310 6.9369e-310, output_spisintetic_teste/1/825/1_825_1
+Twin Loop,  C 91 124 C 113 157 D 10 100.5 D 180 206, output_spisintetic_teste/1/826/1_826_1
+Twin Loop,  C 117 124 C 116 170 D 10 100.5 D 180 200, output_spisintetic_teste/1/827/1_827_1
+Tented Arch,  C 97 126 D 97 199, output_spisintetic_teste/1/828/1_828_1
+Tented Arch,  C 116 134 D 116 197, output_spisintetic_teste/1/829/1_829_1
+Twin Loop,  C 111 120 C 107 166 D 10 100.5 D 180 220, output_spisintetic_teste/1/830/1_830_1
+Twin Loop,  C 114 115 C 115 165 D 10 100.5 D 180 189, output_spisintetic_teste/1/831/1_831_1
+Left LOOP,  C 74 152 D 153 210, output_spisintetic_teste/1/832/1_832_1
+Whorl,  C 108 104 C 105 131 C 6.95294e-310 -1.31107e+299 D 37 216 D 151 202 D 6.89999e-310 0, output_spisintetic_teste/1/833/1_833_1
+Twin Loop,  C 111 113 C 108 179 D 10 100.5 D 180 186, output_spisintetic_teste/1/834/1_834_1
+Arch, none, output_spisintetic_teste/1/835/1_835_1
+Twin Loop,  C 96 122 C 99 167 D 10 100.5 D 180 201, output_spisintetic_teste/1/836/1_836_1
+Tented Arch,  C 95 121 D 95 196, output_spisintetic_teste/1/837/1_837_1
+Left LOOP,  C 100 151 D 158 218, output_spisintetic_teste/1/838/1_838_1
+Tented Arch,  C 97 129 D 97 196, output_spisintetic_teste/1/839/1_839_1
+Whorl,  C 102 113 C 106 133 C 6.95297e-310 -4.30373e+300 D 30 211 D 154 208 D 2.122e-314 3.93169e-314, output_spisintetic_teste/1/840/1_840_1
+Tented Arch,  C 106 140 D 106 187, output_spisintetic_teste/1/841/1_841_1
+Tented Arch,  C 114 138 D 114 191, output_spisintetic_teste/1/842/1_842_1
+Tented Arch,  C 82 146 D 82 191, output_spisintetic_teste/1/843/1_843_1
+Right LOOP,  C 133 170 D 59 219, output_spisintetic_teste/1/844/1_844_1
+Tented Arch,  C 94 125 D 94 182, output_spisintetic_teste/1/845/1_845_1
+Right LOOP,  C 132 152 D 55 210, output_spisintetic_teste/1/846/1_846_1
+Left LOOP,  C 97 168 D 155 217, output_spisintetic_teste/1/847/1_847_1
+Twin Loop,  C 119 111 C 120 177 D 10 100.5 D 180 194, output_spisintetic_teste/1/848/1_848_1
+Twin Loop,  C 91 114 C 98 158 D 10 100.5 D 180 212, output_spisintetic_teste/1/849/1_849_1
+Left LOOP,  C 72 168 D 160 214, output_spisintetic_teste/1/850/1_850_1
+Tented Arch,  C 93 125 D 93 194, output_spisintetic_teste/1/851/1_851_1
+Twin Loop,  C 91 112 C 93 178 D 10 100.5 D 180 196, output_spisintetic_teste/1/852/1_852_1
+Right LOOP,  C 126 169 D 66 211, output_spisintetic_teste/1/853/1_853_1
+Tented Arch,  C 119 134 D 119 194, output_spisintetic_teste/1/854/1_854_1
+Right LOOP,  C 100 161 D 60 217, output_spisintetic_teste/1/855/1_855_1
+Tented Arch,  C 113 123 D 113 188, output_spisintetic_teste/1/856/1_856_1
+Arch, none, output_spisintetic_teste/1/857/1_857_1
+Arch, none, output_spisintetic_teste/1/858/1_858_1
+Right LOOP,  C 100 152 D 51 211, output_spisintetic_teste/1/859/1_859_1
+Whorl,  C 105 114 C 105 170 C 6.95251e-310 -4.95583e+300 D 45 215 D 163 219 D 6.90896e-310 0, output_spisintetic_teste/1/860/1_860_1
+Whorl,  C 107 119 C 104 149 C 6.9531e-310 -2.85546e+299 D 43 203 D 148 206 D 4.94066e-324 6.90193e-310, output_spisintetic_teste/1/861/1_861_1
+Twin Loop,  C 112 116 C 113 176 D 10 100.5 D 180 193, output_spisintetic_teste/1/862/1_862_1
+Arch, none, output_spisintetic_teste/1/863/1_863_1
+Right LOOP,  C 132 155 D 58 211, output_spisintetic_teste/1/864/1_864_1
+Left LOOP,  C 84 161 D 157 219, output_spisintetic_teste/1/865/1_865_1
+Whorl,  C 102 115 C 100 143 C 6.95283e-310 -2.73098e+299 D 47 200 D 158 215 D 6.9018e-310 0, output_spisintetic_teste/1/866/1_866_1
+Tented Arch,  C 87 144 D 87 197, output_spisintetic_teste/1/867/1_867_1
+Left LOOP,  C 74 157 D 157 218, output_spisintetic_teste/1/868/1_868_1
+Tented Arch,  C 86 138 D 86 194, output_spisintetic_teste/1/869/1_869_1
+Twin Loop,  C 114 121 C 95 171 D 10 100.5 D 180 194, output_spisintetic_teste/1/870/1_870_1
+Right LOOP,  C 121 154 D 70 220, output_spisintetic_teste/1/871/1_871_1
+Right LOOP,  C 141 163 D 63 219, output_spisintetic_teste/1/872/1_872_1
+Tented Arch,  C 116 121 D 116 186, output_spisintetic_teste/1/873/1_873_1
+Twin Loop,  C 109 111 C 110 166 D 10 100.5 D 180 219, output_spisintetic_teste/1/874/1_874_1
+Right LOOP,  C 116 154 D 68 219, output_spisintetic_teste/1/875/1_875_1
+Whorl,  C 109 108 C 104 132 C 6.95309e-310 -1.29545e+308 D 49 208 D 147 215 D 2.122e-314 3.24639e-314, output_spisintetic_teste/1/876/1_876_1
+Left LOOP,  C 90 165 D 151 219, output_spisintetic_teste/1/877/1_877_1
+Arch, none, output_spisintetic_teste/1/878/1_878_1
+Whorl,  C 101 113 C 104 149 C 6.95252e-310 -2.6732e+302 D 36 200 D 160 206 D 6.91866e-310 0, output_spisintetic_teste/1/879/1_879_1
+Twin Loop,  C 101 123 C 95 161 D 10 100.5 D 180 218, output_spisintetic_teste/1/880/1_880_1
+Whorl,  C 105 119 C 104 148 C 6.95288e-310 -2.15814e+307 D 36 203 D 147 213 D 6.94643e-310 6.94643e-310, output_spisintetic_teste/1/881/1_881_1
+Right LOOP,  C 137 157 D 53 220, output_spisintetic_teste/1/882/1_882_1
+Whorl,  C 110 110 C 105 133 C 6.95276e-310 -5.83923e+304 D 35 202 D 172 200 D 6.93185e-310 6.93185e-310, output_spisintetic_teste/1/883/1_883_1
+Left LOOP,  C 76 167 D 155 214, output_spisintetic_teste/1/884/1_884_1
+Tented Arch,  C 109 128 D 109 196, output_spisintetic_teste/1/885/1_885_1
+Left LOOP,  C 79 169 D 160 213, output_spisintetic_teste/1/886/1_886_1
+Twin Loop,  C 106 118 C 97 172 D 10 100.5 D 180 217, output_spisintetic_teste/1/887/1_887_1
+Twin Loop,  C 116 116 C 112 165 D 10 100.5 D 180 198, output_spisintetic_teste/1/888/1_888_1
+Tented Arch,  C 110 123 D 110 188, output_spisintetic_teste/1/889/1_889_1
+Right LOOP,  C 124 150 D 56 215, output_spisintetic_teste/1/890/1_890_1
+Twin Loop,  C 96 122 C 96 154 D 10 100.5 D 180 205, output_spisintetic_teste/1/891/1_891_1
+Twin Loop,  C 119 119 C 111 154 D 10 100.5 D 180 208, output_spisintetic_teste/1/892/1_892_1
+Tented Arch,  C 108 144 D 108 187, output_spisintetic_teste/1/893/1_893_1
+Right LOOP,  C 100 160 D 67 215, output_spisintetic_teste/1/894/1_894_1
+Arch, none, output_spisintetic_teste/1/895/1_895_1
+Arch, none, output_spisintetic_teste/1/896/1_896_1
+Tented Arch,  C 88 132 D 88 198, output_spisintetic_teste/1/897/1_897_1
+Arch, none, output_spisintetic_teste/1/898/1_898_1
+Arch, none, output_spisintetic_teste/1/899/1_899_1
+Twin Loop,  C 108 111 C 101 156 D 10 100.5 D 180 199, output_spisintetic_teste/1/900/1_900_1
+Right LOOP,  C 147 158 D 58 217, output_spisintetic_teste/1/901/1_901_1
+Whorl,  C 106 111 C 100 137 C 6.95273e-310 -5.36624e+303 D 40 201 D 156 220 D 6.92612e-310 6.92612e-310, output_spisintetic_teste/1/902/1_902_1
+Right LOOP,  C 106 153 D 56 210, output_spisintetic_teste/1/903/1_903_1
+Arch, none, output_spisintetic_teste/1/904/1_904_1
+Tented Arch,  C 86 127 D 86 200, output_spisintetic_teste/1/905/1_905_1
+Right LOOP,  C 107 157 D 70 212, output_spisintetic_teste/1/906/1_906_1
+Whorl,  C 103 111 C 100 179 C 6.953e-310 -1.76539e+300 D 45 218 D 144 213 D 6.90636e-310 6.90636e-310, output_spisintetic_teste/1/907/1_907_1
+Arch, none, output_spisintetic_teste/1/908/1_908_1
+Right LOOP,  C 116 156 D 54 217, output_spisintetic_teste/1/909/1_909_1
+Right LOOP,  C 119 152 D 63 216, output_spisintetic_teste/1/910/1_910_1
+Left LOOP,  C 82 163 D 156 219, output_spisintetic_teste/1/911/1_911_1
+Left LOOP,  C 100 152 D 155 220, output_spisintetic_teste/1/912/1_912_1
+Twin Loop,  C 108 113 C 111 165 D 10 100.5 D 180 217, output_spisintetic_teste/1/913/1_913_1
+Whorl,  C 102 110 C 103 149 C 6.95295e-310 -4.13178e+301 D 31 209 D 152 200 D 4.94066e-324 6.91419e-310, output_spisintetic_teste/1/914/1_914_1
+Whorl,  C 109 104 C 109 139 C 6.95299e-310 -2.73454e+304 D 46 200 D 168 215 D 2.122e-314 4.17802e-314, output_spisintetic_teste/1/915/1_915_1
+Left LOOP,  C 95 154 D 154 216, output_spisintetic_teste/1/916/1_916_1
+Tented Arch,  C 119 147 D 119 196, output_spisintetic_teste/1/917/1_917_1
+Twin Loop,  C 97 114 C 92 165 D 10 100.5 D 180 208, output_spisintetic_teste/1/918/1_918_1
+Tented Arch,  C 112 131 D 112 185, output_spisintetic_teste/1/919/1_919_1
+Whorl,  C 102 119 C 105 172 C 6.9528e-310 -4.48307e+305 D 41 204 D 172 217 D 6.93685e-310 0, output_spisintetic_teste/1/920/1_920_1
+Twin Loop,  C 100 113 C 108 176 D 10 100.5 D 180 189, output_spisintetic_teste/1/921/1_921_1
+Right LOOP,  C 109 160 D 56 219, output_spisintetic_teste/1/922/1_922_1
+Right LOOP,  C 115 155 D 65 215, output_spisintetic_teste/1/923/1_923_1
+Right LOOP,  C 129 169 D 70 210, output_spisintetic_teste/1/924/1_924_1
+Left LOOP,  C 74 153 D 158 214, output_spisintetic_teste/1/925/1_925_1
+Whorl,  C 108 114 C 105 138 C 6.95264e-310 -2.82533e+302 D 40 202 D 152 205 D 6.9188e-310 6.91881e-310, output_spisintetic_teste/1/926/1_926_1
+Whorl,  C 108 120 C 101 150 C 6.95293e-310 -9.16664e+307 D 38 219 D 157 218 D 6.94999e-310 6.94999e-310, output_spisintetic_teste/1/927/1_927_1
+Whorl,  C 108 117 C 110 130 C 6.95276e-310 -1.46942e+305 D 46 216 D 173 209 D 4.94066e-324 6.93413e-310, output_spisintetic_teste/1/928/1_928_1
+Whorl,  C 108 105 C 100 132 C 6.9526e-310 -1.42246e+304 D 45 208 D 156 220 D 2.122e-314 2.91e-314, output_spisintetic_teste/1/929/1_929_1
+Arch, none, output_spisintetic_teste/1/930/1_930_1
+Whorl,  C 107 115 C 110 176 C 6.95326e-310 -6.98029e+305 D 35 207 D 180 211 D 6.93806e-310 6.93806e-310, output_spisintetic_teste/1/931/1_931_1
+Right LOOP,  C 107 161 D 61 212, output_spisintetic_teste/1/932/1_932_1
+Arch, none, output_spisintetic_teste/1/933/1_933_1
+Left LOOP,  C 75 150 D 151 218, output_spisintetic_teste/1/934/1_934_1
+Whorl,  C 106 111 C 100 165 C 6.95333e-310 -5.23182e+299 D 48 201 D 130 206 D 6.90338e-310 0, output_spisintetic_teste/1/935/1_935_1
+Tented Arch,  C 94 141 D 94 186, output_spisintetic_teste/1/936/1_936_1
+Arch, none, output_spisintetic_teste/1/937/1_937_1
+Left LOOP,  C 79 165 D 152 220, output_spisintetic_teste/1/938/1_938_1
+Left LOOP,  C 98 169 D 158 214, output_spisintetic_teste/1/939/1_939_1
+Twin Loop,  C 118 125 C 109 150 D 10 100.5 D 180 200, output_spisintetic_teste/1/940/1_940_1
+Left LOOP,  C 92 157 D 158 210, output_spisintetic_teste/1/941/1_941_1
+Right LOOP,  C 122 160 D 53 214, output_spisintetic_teste/1/942/1_942_1
+Arch, none, output_spisintetic_teste/1/943/1_943_1
+Arch, none, output_spisintetic_teste/1/944/1_944_1
+Tented Arch,  C 89 137 D 89 198, output_spisintetic_teste/1/945/1_945_1
+Tented Arch,  C 83 135 D 83 189, output_spisintetic_teste/1/946/1_946_1
+Whorl,  C 102 119 C 105 177 C 6.95274e-310 -9.04861e+300 D 38 219 D 155 204 D 2.122e-314 3.20755e-314, output_spisintetic_teste/1/947/1_947_1
+Arch, none, output_spisintetic_teste/1/948/1_948_1
+Twin Loop,  C 90 123 C 113 165 D 10 100.5 D 180 186, output_spisintetic_teste/1/949/1_949_1
+Arch, none, output_spisintetic_teste/1/950/1_950_1
+Tented Arch,  C 100 121 D 100 185, output_spisintetic_teste/1/951/1_951_1
+Right LOOP,  C 133 161 D 56 216, output_spisintetic_teste/1/952/1_952_1
+Whorl,  C 105 119 C 101 157 C 6.95264e-310 -1.03619e+306 D 30 205 D 156 220 D 2.122e-314 3.82947e-314, output_spisintetic_teste/1/953/1_953_1
+Whorl,  C 107 101 C 107 142 C 6.95277e-310 -7.42976e+302 D 47 207 D 150 205 D 2.122e-314 3.5382e-314, output_spisintetic_teste/1/954/1_954_1
+Tented Arch,  C 114 127 D 114 194, output_spisintetic_teste/1/955/1_955_1
+Right LOOP,  C 131 158 D 64 216, output_spisintetic_teste/1/956/1_956_1
+Twin Loop,  C 90 110 C 98 178 D 10 100.5 D 180 195, output_spisintetic_teste/1/957/1_957_1
+Left LOOP,  C 73 169 D 153 211, output_spisintetic_teste/1/958/1_958_1
+Tented Arch,  C 110 144 D 110 186, output_spisintetic_teste/1/959/1_959_1
+Arch, none, output_spisintetic_teste/1/960/1_960_1
+Arch, none, output_spisintetic_teste/1/961/1_961_1
+Tented Arch,  C 119 146 D 119 197, output_spisintetic_teste/1/962/1_962_1
+Twin Loop,  C 101 116 C 92 158 D 10 100.5 D 180 194, output_spisintetic_teste/1/963/1_963_1
+Twin Loop,  C 96 111 C 99 178 D 10 100.5 D 180 216, output_spisintetic_teste/1/964/1_964_1
+Tented Arch,  C 96 144 D 96 190, output_spisintetic_teste/1/965/1_965_1
+Arch, none, output_spisintetic_teste/1/966/1_966_1
+Right LOOP,  C 147 162 D 55 214, output_spisintetic_teste/1/967/1_967_1
+Tented Arch,  C 99 132 D 99 195, output_spisintetic_teste/1/968/1_968_1
+Arch, none, output_spisintetic_teste/1/969/1_969_1
+Right LOOP,  C 138 154 D 68 210, output_spisintetic_teste/1/970/1_970_1
+Arch, none, output_spisintetic_teste/1/971/1_971_1
+Twin Loop,  C 100 121 C 105 174 D 10 100.5 D 180 188, output_spisintetic_teste/1/972/1_972_1
+Left LOOP,  C 78 169 D 158 217, output_spisintetic_teste/1/973/1_973_1
+Arch, none, output_spisintetic_teste/1/974/1_974_1
+Tented Arch,  C 85 150 D 85 200, output_spisintetic_teste/1/975/1_975_1
+Left LOOP,  C 95 165 D 154 216, output_spisintetic_teste/1/976/1_976_1
+Tented Arch,  C 112 121 D 112 195, output_spisintetic_teste/1/977/1_977_1
+Right LOOP,  C 147 163 D 51 212, output_spisintetic_teste/1/978/1_978_1
+Arch, none, output_spisintetic_teste/1/979/1_979_1
+Whorl,  C 106 102 C 108 140 C 6.95278e-310 -1.53809e+299 D 50 200 D 131 201 D 6.90045e-310 0, output_spisintetic_teste/1/980/1_980_1
+Left LOOP,  C 99 165 D 160 213, output_spisintetic_teste/1/981/1_981_1
+Whorl,  C 100 110 C 110 173 C 6.95271e-310 -7.71448e+305 D 30 209 D 143 209 D 6.93824e-310 0, output_spisintetic_teste/1/982/1_982_1
+Left LOOP,  C 74 153 D 152 210, output_spisintetic_teste/1/983/1_983_1
+Arch, none, output_spisintetic_teste/1/984/1_984_1
+Twin Loop,  C 97 123 C 118 150 D 10 100.5 D 180 203, output_spisintetic_teste/1/985/1_985_1
+Right LOOP,  C 112 154 D 56 214, output_spisintetic_teste/1/986/1_986_1
+Whorl,  C 104 106 C 105 142 C 6.95252e-310 -8.58343e+303 D 40 208 D 167 200 D 4.94066e-324 6.92715e-310, output_spisintetic_teste/1/987/1_987_1
+Right LOOP,  C 146 161 D 63 211, output_spisintetic_teste/1/988/1_988_1
+Tented Arch,  C 81 142 D 81 195, output_spisintetic_teste/1/989/1_989_1
+Left LOOP,  C 90 169 D 152 215, output_spisintetic_teste/1/990/1_990_1
+Twin Loop,  C 108 122 C 102 177 D 10 100.5 D 180 186, output_spisintetic_teste/1/991/1_991_1
+Right LOOP,  C 137 160 D 61 219, output_spisintetic_teste/1/992/1_992_1
+Tented Arch,  C 104 134 D 104 183, output_spisintetic_teste/1/993/1_993_1
+Tented Arch,  C 85 150 D 85 194, output_spisintetic_teste/1/994/1_994_1
+Arch, none, output_spisintetic_teste/1/995/1_995_1
+Twin Loop,  C 111 115 C 114 160 D 10 100.5 D 180 216, output_spisintetic_teste/1/996/1_996_1
+Right LOOP,  C 130 161 D 51 216, output_spisintetic_teste/1/997/1_997_1
+Whorl,  C 108 105 C 100 132 C 6.95289e-310 -2.31555e+302 D 37 214 D 143 215 D 2.122e-314 3.83033e-314, output_spisintetic_teste/1/998/1_998_1
+Right LOOP,  C 124 170 D 51 218, output_spisintetic_teste/1/999/1_999_1
+Twin Loop,  C 91 120 C 103 163 D 10 100.5 D 180 218, output_spisintetic_teste/1/1000/1_1000_1

@@ -1,0 +1,29 @@
+Exec: ./spisynthetic output_spisintetic_teste/1/25 1_25 2 4 3 0 0  1 bmp 1 230 300 5 127
+------------------------------------------------
+------------------------------------------------
+[1] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 1, captureType: 1
+------------------------------------------------
+[2] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 1, captureType: 9
+------------------------------------------------
+[3] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 2, captureType: 2
+input.cols: 230input.rows: 300
+input.cols: 230input.rows: 300
+input.cols: 230input.rows: 300
+------------------------------------------------
+[4] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 5, captureType: 3
+------------------------------------------------
+[5] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 4, captureType: 6
+------------------------------------------------
+[6] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 2, captureType: 3
+------------------------------------------------
+[7] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 2, captureType: 3
+------------------------------------------------
+[8] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 1, captureType: 6
+------------------------------------------------
+[9] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 1, captureType: 9
+------------------------------------------------
+[10] Params = fingerType: 1, bgType: 8, ridgeIntensityType: 1, zoomIn: -1, perspectiveType: 0, classType: 0, numCaptures: 10, typeout: .bmp, exportRoi: 0, shapeType: 2, captureType: 3
+------------------------------------------------
+Total time: 1082 ms
+Time per image: 0.0000 ms
+------------------------------------------------
